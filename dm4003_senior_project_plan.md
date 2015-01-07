@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-    <td>Cover</td>   
+    <td><strong>Cover</strong></td>   
     <td>
     <ul>
     <li>Your first and last name</li>
@@ -26,11 +26,11 @@
     <li>Spring 2015</li></td>
 </tr>
 <tr>
-    <td>Index or Table of Contents</td>
+    <td><strong>Index or Table of Contents</strong></td>
     <td></td>
 </tr>
 <tr>
-    <td> Project Statement / Goal</td>    
+    <td><strong>Project Statement / Goal</strong></td>    
     <td>Read <i>Do The Work</i> and answer the following questions. 
     <ul>
     <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28) 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure.</li>
@@ -40,7 +40,7 @@
     (What are your project's conceptual underpinnings?)</td>
 </tr>
 <tr>
-    <td>Your motivation, drive, and/or purpose</td> 
+    <td><strong>Your motivation, drive, and/or purpose</strong></td> 
     <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What or who are your enemies? (p. 4)</li>
@@ -51,7 +51,7 @@
     (Why are you doing this project? What are you discovering here? What questions are you asking? What are you exploring?)</td>
 </tr>
 <tr>
-    <td>Target Audience</td> 
+    <td><strong>Target Audience</strong></td> 
     <td>
     Read <i>Do The Work</i> and answer the following questions. 
     <ul>
@@ -62,11 +62,11 @@
     (Who is this project for? Please note that everyone is not a valid answer. Target is the key word here. )</td>
 </tr>
 <tr>
-    <td>Competitive Analysis</td>
+    <td><strong>Competitive Analysis</strong></td>
     <td>Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)?</td>
 </tr>
 <tr>
-    <td>Resources</td>   
+    <td><strong>Resources</strong></td>   
     <td>
     <ul>
     <li>List of Collaborators, Participants, and Advisors (People and their roles)</li>
@@ -77,21 +77,21 @@
     (How are you achieving this?)</td> 
 </tr>
 <tr>
-    <td>Research / Reference / Inspiration</td>        
+    <td><strong>Research / Reference / Inspiration</strong></td>        
     <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, comparative analysis of similar projects, tech research, material research, visual research, collection, interviews, observation, etc.
     <ul>
     <li>You should decide what kinds of research / reference / inspiration is most appropriate for your project.</li>
     </ul></td>
 </tr>
 <tr>
-    <td>Design</td>  
+    <td><strong>Design</strong></td>  
     <td>Including, but not limited to, design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
     <ul>
     <li>You should decide which processes are most appropriate for your project.</li>
     </ul></td>
 </tr> 
 <tr>
-    <td>Development</td> 
+    <td><strong>Development</strong></td> 
     <td>Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
     <ul>
     <li>You should know what the concept of a prototype is, particularly if you took the RSMP course, but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
@@ -99,7 +99,7 @@
     <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li></td>
 </tr>
 <tr>
-    <td>Project Versions</td> 
+    <td><strong>Project Versions</strong></td> 
     <td>Alpha, Beta, and Gold refer to a project’s life cycle.
     <ul>
     <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
@@ -109,12 +109,12 @@
     The specific parameters and expectations of each version will be individually determined in consultation with the professor.</td>
 </tr>
 <tr>
-    <td>Milestones / Calendar</td>
+    <td><strong>Milestones / Calendar</strong></td>
     <td>Break down your tasks into actionable tasks</td>
 </tr>
 <tr>  
 <tr>
-    <td>Risks</td>   
+    <td><strong>Risks</strong></td>   
     <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What’s missing from your project? (p. 48)</li>
