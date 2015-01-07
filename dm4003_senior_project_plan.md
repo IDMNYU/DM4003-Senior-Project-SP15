@@ -17,7 +17,8 @@
 <table>
 <tr>
     <td>Cover</td>   
-    <td>* Your first and last name
+    <td>
+    * Your first and last name
     * Project Title
     * Senior Project in Digital Media
     * New York University
