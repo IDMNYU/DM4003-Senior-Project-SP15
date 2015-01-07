@@ -109,10 +109,10 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to the weekly group critique on Fridays and your individual meetings on time. 
+* Come to the weekly group critique on Wednesdays and your individual meetings on time. 
 * Participate in group critiques and discussions. Be vocal.
 * Present your work during group critiques at least twice during the course of the semester. 
-* Meet, individually, with the professor on a weekly basis during scheduled studio time to discuss your project progress.
+* Meet, individually, with the professor on a weekly basis during your scheduled time to discuss your project progress.
 * Consult basecamp at least once a week for up to date info
 * Maintain a weekly, senior studio project blog 
 * Complete all deliverables by their due dates
@@ -151,7 +151,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 25% Senior Project Final Project – Gold Version 
 * 15% Senior Project Project Website
 
-Weekly progress will be based on your blog documentation and your group critique presentations & participation.
+*Weekly progress will be based on your blog documentation and your group critique presentations & participation.*
 
 ##### Qualitative Grading Overview
 
@@ -207,13 +207,13 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 
 ### REQUIRED BOOKS
-I highly suggest you acquire your own copies, but there are copies on reserve in the library. 
+The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* *Do The Work* by Steven Pressfield
-http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2
+* *[Do The Work]* by Steven Pressfield
+(http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2)
 
-* *Show Your Work!* by Austin Kleon
-http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon
+* *[Show Your Work!]* by Austin Kleon
+(http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon)
 
 
 ### REQUIRED WEBSITE
