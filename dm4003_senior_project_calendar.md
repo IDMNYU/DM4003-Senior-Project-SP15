@@ -45,8 +45,8 @@
     <td>Fri, Feb 01</td>
 </tr>
 <tr>
-    <td>PRINT OUT and UPLOAD PDF to Senior Studio Dropbox</td>
-    <td> 
+    <td>PRINT OUT and UPLOAD PDF to Senior Studio Dropbox
+  
     Read or Reread Do The Work and answer the following questions. 
     What or who are your enemies? (p. 4)
     What or who are your allies? (p. 12)
@@ -57,8 +57,8 @@
     What is your project’s theme(s)? (p. 48)
     What’s missing from your project? (p. 48)
     How bad do you want to complete your project? (p. 68)
-    Why do you want to complete your project? (p. 68)   Fri Feb 01
-    </td>
+    Why do you want to complete your project? (p. 68)</td>     
+    <td> Fri Feb 01</td>
 </tr>
 <tr>
     <td>PRINT OUT and UPLOAD PDF to Senior Studio Dropbox 
