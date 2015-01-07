@@ -209,11 +209,11 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* *[Do The Work]* by Steven Pressfield
-(http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2)
+* *[Do The Work]* (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 
-* *[Show Your Work!]* by Austin Kleon
-(http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon)
+
+* [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
+
 
 
 ### REQUIRED WEBSITE
