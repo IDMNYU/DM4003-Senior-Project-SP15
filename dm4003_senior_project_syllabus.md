@@ -80,10 +80,8 @@ By the end of the course, students will be able to develop, complete, and docume
 ### COURSE STRUCTURE
 
 This class will consist of 
-* **Individual Meetings**
-     The weekly, individual 15 minute schedule will be determined on the first day of class.
-* **Group critiques**
-     Group critiques will be held for two seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
+* **Individual Meetings**<br>The weekly, individual 15 minute schedule will be determined on the first day of class.
+* **Group critiques**<br>Group critiques will be held for two seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
 
      Each presentation will consist of 
      * 10 to 15 minutes of presentation and 
