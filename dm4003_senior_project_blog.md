@@ -21,7 +21,8 @@ Spencer Hargiss’ process blog is a good example, http://www.spencerhargiss.com
 * However, most importantly, he had supporting text for these images and screenshots.
 
 **What your blog should contain?**
-* at least, 1 post per week. The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar), but may also include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
+* *Weekly Project Progress*
+  * at least, 1 post per week. The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar), but may also include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?
