@@ -42,11 +42,13 @@ This website should market and promote your project. At the very least, it shoul
 Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
 
 ### END OF SEMESTER ASSESSMENT
-* *Please name your file as yourname_final_assessment.pdf*
-* Do your deliverables match your initial concept 
-(or last impact statement)?
-* Did you do what you said you were going to do 
-(integrity, accountability)?
+* Please name your file as yourname_midterm_assessment.pdf
+* Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+* Critically analyze/evaluate your senior project process and progress
+* What qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
+* What qualitative description would you give the final execution of your project so far and why?
+* Do your deliverables match your initial concept (or last impact statement)?
+  * Did you do what you said you were going to do (integrity, accountability)?
 * Did you execute all aspects of your project by the best means possible?
 
 ### SENIOR PROJECT FEEDBACK

@@ -10,10 +10,11 @@
 
 ## MIDTERM PROGRESS ASSESSMENT
 
-* *Please name your file as yourname_midterm_assessment.pdf*
-* Please email each **as a PDF** to deangela.duff@nyu.edu
-
-* Reflection regarding progress of your senior project at this point in time
+* Please name your file as yourname_midterm_assessment.pdf
+* Email your midterm self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+* Critically analyze/evaluate your senior project process and progress
+* What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
+* What qualitative description would you give the execution of your project so far and why?
 * What are your risks of failure? (lack of tech, time, knowledge, money, etc.)
 * Create a contingency plan for major risks.
 * What are your open issues?
