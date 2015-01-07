@@ -14,8 +14,7 @@
 * Please email each **as a PDF** to deangela.duff@nyu.edu
 
 * Reflection regarding progress of your senior project at this point in time
-* What are your risks of failure? 
-(lack of tech, time, knowledge, money, etc.)
+* What are your risks of failure? (lack of tech, time, knowledge, money, etc.)
 * Create a contingency plan for major risks.
 * What are your open issues?
 
