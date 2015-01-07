@@ -18,11 +18,11 @@
 <tr>
     <td>Cover</td>   
     <td>
-    * Your first and last name
-    * Project Title
-    * Senior Project in Digital Media
-    * New York University
-    * Spring 2015</td>
+* Your first and last name
+* Project Title
+* Senior Project in Digital Media
+* New York University
+* Spring 2015</td>
 </tr>
 <tr>
     <td>Index or Table of Contents</td>
@@ -31,7 +31,7 @@
 <tr>
     <td> Project Statement / Goal</td>    
     <td>(What is this about? What is the theme? What are its conceptual underpinnings?) 
-    * 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure (consult the required readings). Think elevator pitch.</td>
+* 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure (consult the required readings). Think elevator pitch.</td>
     </tr>
 <tr>
     <td>Your motivation, drive, and/or purpose</td> 
@@ -44,10 +44,10 @@
 <tr>
     <td>Resources</td>   
     <td>(How are you achieving this?)
-    * List of Collaborators, Participants, and Advisors (People and their roles)
-    * Materials &amp; Vendors List
-    * Technical requirements
-    * Budget</td> 
+* List of Collaborators, Participants, and Advisors (People and their roles)
+* Materials &amp; Vendors List
+* Technical requirements
+* Budget</td> 
 </tr>
 <tr>
 <td>Research / Reference / Inspiration</td>        
@@ -79,12 +79,12 @@ The specific parameters and expectations of each version will be individually de
 </tr>
 <tr>
     <td>Milestones / Calendar</td>
-    <td></td>
+    <td>Break down your tasks into actionable tasks</td>
 </tr>
 <tr>  
 <tr>
     <td>Risks</td>   
-    <td>What were your risks of failure? (lack of tech, time, knowledge, money, etc.) and how did you overcome them or not.</td>
+    <td>What are your risks of failure? (lack of tech, time, knowledge, money, etc.) and how will you overcome them.</td>
 </tr>
 </table>
 
