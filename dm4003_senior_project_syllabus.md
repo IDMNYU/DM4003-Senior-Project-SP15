@@ -143,13 +143,15 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% Weekly Progress (Project Milestones & Senior Project Project Blog)
-* 10% Class Critique Presentations
-* 25% Process PDF & Book / Supporting Files
-* 05% End of Semester Public Presentation
-* 05% Assessments
-* 25% Senior Project Final Project – Gold Version 
+* 20% Senior Project Final Project – Gold Version 
+* 20% Process PDF & Book / Supporting Files
 * 15% Senior Project Project Website
+* 15% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Project Blog)
+* 10% Class Critique Presentations
+* 05% End of Semester Public Presentation
+* 05% Midterm Self Assessment
+* 05% End of Semester Assessment
+* 05% Letter to Next Cohort
 
 *Weekly progress will be based on your blog documentation and your group critique presentations & participation.*
 
