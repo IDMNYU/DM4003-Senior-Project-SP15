@@ -15,9 +15,9 @@
 
 <table>
 <tr>
-    <td>DELIVERABLES<br>All dates and assignments are subject to change at the discretion of the professor</td>
+    <td>DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
     <td>DUE DATE<br>
-    by or before</td>
+    <i>by or before</i></td>
 </tr>
 <tr>
     <td>Individual Meetings / Senior Project Blog Updates</td>    
@@ -28,41 +28,26 @@
     <td>Weekly</td>
 </tr>
 <tr>
-    <td>Group Critiques (Order To Be Determined)<br>Every Wednesday, two students will present.    
+    <td>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, two students will present.    
     <td>Wednesdays</td>
 </tr>
 <tr>
-    <td>10 Minute Project Status Presentations from all students in the class   Fri, Jan 25
-    SCREENING: Troy Gua for Beautiful Nights 5:00-6:00 &amp; 8:27-8:43
-    http://www.youtube.com/watch?v=9l5JhBL1VSA</td> 
+    <td>10 Minute Project Status Presentations from all students in the class</td>
     <td>Fri, Jan 25</td>
 </tr>
 <tr>
-    <td>Visual Representation of your milestones, using Personal Kanban http://personalkanban.com, on the walls of Senior Studio (Terra 1215). 
+    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</td> 
+    <td>Fri, Jan 25</td>
+</tr>
+<tr>
+    <td>Visual Representation of your milestones, using Personal Kanban http://personalkanban.com, 
     I recommend using post-its so you can move them around
     OR
     Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</td> 
     <td>Fri, Feb 01</td>
 </tr>
 <tr>
-    <td>PRINT OUT and UPLOAD PDF to Senior Studio Dropbox
-  
-    Read or Reread Do The Work and answer the following questions. 
-    What or who are your enemies? (p. 4)
-    What or who are your allies? (p. 12)
-    What is your project about? Think Elevator Pitch or 3 act structure
-    (pp. 23–28, 47-48)
-    Who cares? Who will care? (Who is your target audience?)
-    What do you want your target audience to experience when they interact with your project?
-    What is your project’s theme(s)? (p. 48)
-    What’s missing from your project? (p. 48)
-    How bad do you want to complete your project? (p. 68)
-    Why do you want to complete your project? (p. 68)</td>     
-    <td> Fri Feb 01</td>
-</tr>
-<tr>
-    <td>PRINT OUT and UPLOAD PDF to Senior Studio Dropbox 
-    Project Plan (see page 13 for guidelines)</td>   
+    <td>Project Plan (see page 13 for guidelines)</td>   
     <td>Fri Feb 01</td>
 </tr>
 <tr>
