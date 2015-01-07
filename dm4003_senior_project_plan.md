@@ -54,20 +54,27 @@
     <td>Target Audience</td> 
     <td>
     Read <i>Do The Work</i> and answer the following questions. 
-Who cares? Who will care? (Who is your target audience?)
+    <ul>
+    <li>Who cares? Who will care? (Who is your target audience?)</li>
+    <ul>
     What do you want your target audience to experience when they interact with your project?
 
-    (Who is this project for? Please note that everyone is not a valid answer. Target is the key word here. How will it be positioned (branding) and differentiated (market and competitors or like works)?)</td>
+    (Who is this project for? Please note that everyone is not a valid answer. Target is the key word here. )</td>
+</tr>
+<tr>
+    <td>Competitive Analysis</td>
+    <td>Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)?</td>
 </tr>
 <tr>
     <td>Resources</td>   
-    <td>(How are you achieving this?)
+    <td>
     <ul>
     <li>List of Collaborators, Participants, and Advisors (People and their roles)</li>
     <li>Materials &amp; Vendors List</li>
     <li>Technical requirements</li>
     <li>Budget</li>
-    </ul></td> 
+    </ul>
+    (How are you achieving this?)</td> 
 </tr>
 <tr>
     <td>Research / Reference / Inspiration</td>        
@@ -108,7 +115,7 @@ Who cares? Who will care? (Who is your target audience?)
 <tr>  
 <tr>
     <td>Risks</td>   
-    <td> Read <i>Do The Work</i> and answer the following questions.
+    <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What’s missing from your project? (p. 48)</li>
     </ul>
