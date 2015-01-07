@@ -3,15 +3,12 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
     Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
-
-    Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
+    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
    
-   
-###Github Repository: http://github.com/IDMNYU/DM4003-Senior--SP15
+###Github Repository: http://github.com/IDMNYU/DM4003-Senior-Project-SP15
 
 ####Course Management Site
 * http://basecamp.com | http://polishedsolid.basecamphq.com | http://thesis.polishedsolid.com
