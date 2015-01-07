@@ -19,7 +19,7 @@
 * What are your open issues?
 
 
-**PRINTED ASSIGNMENTS**
+#### PRINTED ASSIGNMENTS
 Any printed assignments should always contain the following: 
 
 * Date
