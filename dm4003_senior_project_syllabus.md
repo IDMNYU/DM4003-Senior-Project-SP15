@@ -209,7 +209,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* *[Do The Work]* (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
+* [Do The Work] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 
 
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
@@ -217,62 +217,32 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 
 ### REQUIRED WEBSITE
-* Personal Kanban - http://www.personalkanban.com
+* [Personal Kanban] (http://www.personalkanban.com)
 
 
 ### REQUIRED ARTICLES
 
-* Why Success Always Starts With Failure by Sarah Rapp 
-http://99u.com/tips/7072/Why-Success-Always-Starts-With-Failure
+* [Why Success Always Starts With Failure by Sarah Rapp] (http://99u.com/tips/7072/Why-Success-Always-Starts-With-Failure)
 
-* Why Can’t I Finish? by Elizabeth Grace Saunders 
-http://99u.com/tips/7062/Why-Cant-I-Finish
+* [Why Can’t I Finish? by Elizabeth Grace Saunders] (http://99u.com/tips/7062/Why-Cant-I-Finish)
 
 
 ### RECOMMENDED BOOKS
 
-* Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos by Steven Chandler
-http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
-* The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield
-http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/
-
-* Anything You Want by Derek Sivers 
-http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1
-
-* Personal Kanban: Mapping Work | Navigating Life by Jim Benson and Tonianne DeMaria Barry 
-http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban
-
-* Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition) by Garr Reynolds
-http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen
-
-* The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World by Chris Guillebeau
-http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1
-
-* The 4-Hour Workweek, Expanded and Updated by Timothy Ferriss 
-http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield
 
 
-### PROCESS PDF / SUPPORTING FILES 
-Upload the PDF file of the book to the Senior Studio Dropbox
-Upload the appropriate project life cycle (alpha, beta, and gold) and all related project documentation (e.g. video, HTML files, audio files, PDF of the book) to the Senior Studio Dropbox.
+* [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
+* [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 
-### PROCESS BOOK
-Printed and bound copy of the book. I highly recommend http://blurb.com, but you have to allow time to get it printed and shipped. Printing and shipping averages around a week and a day.
+* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
 
-Use the content of your project plan and blog for your process PDF & book. Here are two examples of some very good, production / process books:
-* http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
-* http://issuu.com/russmaschmeyer/docs/motiv-process-book
+* [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
-
-### PROJECT WEBSITE
-*NOTE: This is different than your Senior Project Blog.*
-This website should market and promote your project. At the very least, it should contain a description, visual documentation, etc. Ideally, your project should have its own URL, but this is not required. A sub-domain is the next viable option.
-
-
-### END OF SEMESTER PUBLIC PRESENTATIONS
-Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
+* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss 
 
 
 ### [PROJECT PLAN](dm4003_senior_project_plan.md)
@@ -281,7 +251,10 @@ See Appendix
 ### [PROJECT BLOG](dm4003_senior_project_blog.md)
 See Appendix
 
-### [ASSESSMENTS](dm4003_senior_project_assessments.md)
+### [MIDTERM PROGRESS ASSESSMENT](dm4003_senior_project_midterm_assessment.md)
+See Appendix
+
+### [END OF SEMESTER DELIVERABLES](dm4003_senior_project_end_of_semester_deliverables.md)
 See Appendix
 
 ### [CALENDAR](dm4003_senior_project_calendar.md)
