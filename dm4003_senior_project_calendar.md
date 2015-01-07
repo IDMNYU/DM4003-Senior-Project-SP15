@@ -107,7 +107,7 @@
     Process PDF, Book &amp; Supporting Files<br>
     Final Self-Assessment<br>
     Letter to Next Cohort</td>
-    <td>Tue, </td>
+    <td></td>
 </tr>
 </table>
 
