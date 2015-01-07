@@ -31,9 +31,9 @@
 </tr>
 <tr>
     <td> Project Statement / Goal</td>    
-    <td>Read *Do The Work* and answer the following questions. 
+    <td>Read <i>Do The Work</i> and answer the following questions. 
     <ul>
-    <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28, 47-48)* 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure (consult the required readings). Think elevator pitch. (pp. 47-48)</li>
+    <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28) 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure.</li>
     <li>What is your project’s theme(s)? (p. 48)</li>
     </ul>
 
@@ -41,7 +41,7 @@
 </tr>
 <tr>
     <td>Your motivation, drive, and/or purpose</td> 
-    <td>Read *Do The Work* and answer the following questions.
+    <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What or who are your enemies? (p. 4)</li>
     <li>What or who are your allies? (p. 12)</li>
@@ -53,7 +53,7 @@
 <tr>
     <td>Target Audience</td> 
     <td>
-    Read *Do The Work* and answer the following questions. 
+    Read <i>Do The Work</i> and answer the following questions. 
 Who cares? Who will care? (Who is your target audience?)
     What do you want your target audience to experience when they interact with your project?
 
@@ -93,19 +93,13 @@ Who cares? Who will care? (Who is your target audience?)
 </tr>
 <tr>
     <td>Project Versions</td> 
-    <td>
+    <td>Alpha, Beta, and Gold refer to a project’s life cycle.
     <ul>
-    <li>Alpha</li>
-    <li>Beta</li>
-    <li>Gold Version</li>
+    <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
+    <li><strong>Beta</strong> Version is when the functionality, form, and implementation is complete as possible. It is ready for user testing.</li>
+    <li><strong>Gold</strong> Version is when all the bugs have been fixed and quality is assured. It is ready to go public.</li>
     </ul>
-    Alpha, Beta, and Gold refer to a project’s life cycle.
-<ul>
-<li>Alpha Version is the testing phase of form and functionality</li>
-<li>Beta Version is when the functionality, form, and implementation is complete as possible. It is ready for user testing.</li>
-<li>Gold Version is when all the bugs have been fixed and quality is assured. It is ready to go public.</li>
-</ul>
-The specific parameters and expectations of each version will be individually determined in consultation with the professor. </td>
+    The specific parameters and expectations of each version will be individually determined in consultation with the professor.</td>
 </tr>
 <tr>
     <td>Milestones / Calendar</td>
@@ -114,7 +108,7 @@ The specific parameters and expectations of each version will be individually de
 <tr>  
 <tr>
     <td>Risks</td>   
-    <td> Read *Do The Work* and answer the following questions.
+    <td> Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What’s missing from your project? (p. 48)</li>
     </ul>
