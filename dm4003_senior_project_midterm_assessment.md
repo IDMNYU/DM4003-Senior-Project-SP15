@@ -14,10 +14,9 @@
 * Email your midterm self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
 * Critically analyze/evaluate your senior project process and progress
 * What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
-* What qualitative description would you give the execution of your project so far and why?
-* What are your risks of failure? (lack of tech, time, knowledge, money, etc.)
-* Create a contingency plan for major risks.
-* What are your open issues?
+* What qualitative description would you give progress of your project so far and why?
+* What are your open issues? What are your risks of failure? (lack of tech, time, knowledge, money, etc.)
+  * Create a contingency plan for major risks.
 
 
 #### PRINTED ASSIGNMENTS

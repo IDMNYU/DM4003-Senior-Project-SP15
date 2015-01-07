@@ -8,7 +8,10 @@
 
 ---
 
+# DRAFT (NOT FINAL)
+
 ## CALENDAR
+
 
 <table>
 <tr>
@@ -102,7 +105,7 @@
     <td>Process PDF, Book &amp; Supporting Files (Senior Studio Dropbox)
     PRINT OUT and UPLOAD PDF to Senior Studio Dropbox 
     Assessment–End of Semester Progress
-    Assessment - Senior Studio<td>
+    Assessment - Senior Studio</td>
     <td>Tue, May 07</td>
 </tr>
 <tr>
