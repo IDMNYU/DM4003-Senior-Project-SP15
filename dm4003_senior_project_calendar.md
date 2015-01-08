@@ -21,8 +21,8 @@
    
 </tr>
 <tr>
-    <td>Weekly</td>
-    <td><br>Project Critiques</td>    
+    <td></td>
+    <td>Read the required articles. Be prepared to discuss.</td>   
 </tr>
 <tr>
     <td>Before Class Begins</td>
@@ -77,7 +77,7 @@
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
-    Class Critique: Senior Project – Alpha Version</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    Class Critique: Senior Project – Alpha Version</strong><br><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -112,7 +112,7 @@
     <td>Wed, Apr 29</td>
     <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
-    Class Critique: Final Portfolio Website Due<br></strong><br><br>Personal Kanban / Senior Project Blog Updates</td> 
+    Class Critique: Final Portfolio Website Due<br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
@@ -130,13 +130,10 @@
     <td><strong>End of Semester Public Presentations</strong></td>
 </tr>
 <tr>
-    <td>Fri, May 08 – Tue, May 19</td>
+    <td><nobr>Fri, May 08 – Tue, May 19</nobr></td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
-<tr>
-    <td></td>
-    <td>Read the required articles. Be prepared to discuss.</td>   
-</tr>
+
 </table>
 
 
