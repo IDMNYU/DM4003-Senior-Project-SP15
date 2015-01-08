@@ -22,19 +22,15 @@
 </tr>
 <tr>
     <td>Weekly</td>
-    <td>Individual Meetings / Senior Project Blog Updates<br>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, two students will present.</td>    
-</tr>
-<tr>
-    <td>Weekly</td>
-    <td>Read or Reread a chapter in Do The Work!</td>
+    <td>Individual Meetings / Senior Project Blog Updates<br>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, 2 to 3 students will present.<br>If you do a group critique, you will NOT meet for an individual meeting that day.</td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
-    <td>Cover Letter, Resume, and LinkedIn Profile In Class Workshop</td>  
+    <td>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>10 Minute Project Status Presentations from all students in the class</td> 
+    <td>READ: <i>Do The Work!</i> by Steven Pressfield (before Class)<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>10 Minute Project Status Presentations from all students in the class</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -43,7 +39,7 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
+    <td><br>10 Minute Project Status Presentations from all students in the class (if your project has changed)<br>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
@@ -56,15 +52,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
+    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td></td> 
+    <td>Group Critique: Isaac<br>Group Critique: Miranda<br></td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td></td> 
+    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
@@ -81,7 +77,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td>DRAFT of Process PDF DUE</td> 
+    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br><br>DRAFT of Process PDF DUE</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -90,15 +86,15 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td></td> 
+    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td>Senior Project – Beta Version</td> 
+    <td><br>Senior Project – Beta Version</td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td></td> 
+    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br></td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>

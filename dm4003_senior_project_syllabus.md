@@ -145,7 +145,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 20% Senior Project Final Project – Gold Version 
 * 20% Process PDF & Book / Supporting Files
-* 15% Senior Project Project Website
+* 15% Portfolio Website
 * 15% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Project Blog)
 * 10% Class Critique Presentations
 * 05% End of Semester Public Presentation
