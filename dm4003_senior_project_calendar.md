@@ -56,7 +56,7 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
