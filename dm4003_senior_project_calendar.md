@@ -15,9 +15,9 @@
 
 <table>
 <tr>
-    <td>DUE DATE<br>
+    <td width="8%">DUE DATE<br>
     <i>by or before</i></td>
-    <td>DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
+    <td width="92%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
    
 </tr>
 <tr>
@@ -130,7 +130,7 @@
     <td><strong>End of Semester Public Presentations</strong></td>
 </tr>
 <tr>
-    <td><nobr>Fri, May 08 – Tue, May 19</nobr></td>
+    <td>Fri, May 08 – Tue, May 19</td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 
