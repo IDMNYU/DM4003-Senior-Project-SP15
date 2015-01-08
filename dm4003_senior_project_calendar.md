@@ -103,18 +103,18 @@
 <tr>
     <td>Wed, Apr 29</td>
     <td><strong>Final Resume and Cover Letter Due<br>
-    LinkedIn Profile Due<br>
-    Portfolio Website Due<br></strong></td> 
+    Final LinkedIn Profile Due<br>
+    Final Portfolio Website Due<br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
     <td><strong>Senior Project – Gold Version<br>
-    Process PDF, Book &amp; Supporting Files Due<br>
+    Final Process PDF, Book &amp; Supporting Files Due<br>
     Final Self-Assessment Due<br>
     Letter to Next Cohort Due</strong></td> 
 </tr>
 <tr>
-    <td>Tue, May 05 – Thu, May 7</td>
+    <td>Tue, May 05 –<br>Thu, May 7</td>
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
@@ -122,15 +122,16 @@
     <td><strong>End of Semester Public Presentations</strong></td>
 </tr>
 <tr>
-    <td>Fri, May 08 – Tue, May 19</td>
+    <td>Fri, May 08 –<br>Tue, May 19</td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 
 
 
 <tr>
+<td></td>
     <td>Read the required articles. Be prepared to discuss.</td>
-    <td></td>
+    
 </tr>
 </table>
 
