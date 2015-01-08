@@ -43,7 +43,12 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td>Project Plan 1st Draft</td> 
+    <td>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
+    <ul>
+    <li>I recommend using post-its so you can move them around
+    OR</li>
+    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
+    </ul></td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -51,7 +56,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td>Project Plan 2nd Draft</td> 
+    <td>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
@@ -104,15 +109,15 @@
 </tr>
 <tr>
     <td>Tue, May 05 – Thu, May 7</td>
-    <td>Reading Days for NYU School of Engineering Undergrad Classes</td> 
+    <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
     <td>May TBD</td>
-    <td>End of Semester Public Presentations</td>
+    <td><strong>End of Semester Public Presentations</strong></td>
 </tr>
 <tr>
     <td>Fri, May 08 – Tue, May 19</td>
-    <td>Final Exams for NYU School of Engineering Undergrad Classes</td> 
+    <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 
 <tr>
@@ -121,12 +126,7 @@
 </tr>
 <tr>
     <td></td>
-    <td>Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
-    <ul>
-    <li>I recommend using post-its so you can move them around
-    OR</li>
-    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-    </ul></td> 
+    <td></td> 
     
 </tr>
 
