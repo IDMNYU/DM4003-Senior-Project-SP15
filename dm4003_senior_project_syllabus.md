@@ -81,7 +81,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 This class will consist of 
 * **Individual Meetings**<br>The weekly, individual 10 minute status meetings order will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
-* **Group critiques**<br>Group critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
+* **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
 
      Each presentation will consist of 
      * 10 to 15 minutes of presentation and 
@@ -149,7 +149,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 15% Portfolio Website
 * 10% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Project Blog)
 * 10% 
-* 10% Group Critique Presentations
+* 10% Project Critique Presentations
 * 05% End of Semester Public Presentation
 * 05% Midterm Self Assessment Rubric
 * 05% End of Semester Assessment

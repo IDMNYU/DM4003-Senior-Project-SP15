@@ -22,7 +22,7 @@
 </tr>
 <tr>
     <td>Weekly</td>
-    <td><br>Group Critiques</td>    
+    <td><br>Project Critiques</td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
@@ -52,20 +52,20 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Group Critique: Collin<br>Group Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td><strong>Portfolio Website Draft<br>
-    Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong></td> 
+    <td><strong>Class Critique: Portfolio Website Draft Due<br>
+    Class Critique: Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong></td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Group Critique: Collin<br>Group Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -86,28 +86,28 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strnng>Group Critique: Senior Project – Beta Version</strnng></td> 
+    <td><strnng>Class Critique: Senior Project – Beta Version</strnng></td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td><strong>Group Critique: Final Resume and Cover Letter Due<br>
-    Group Critique: Final LinkedIn Profile Due<br>
-    Group Critique: Final Portfolio Website Due<br></strong></td> 
+    <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
+    Class Critique: Final LinkedIn Profile Due<br>
+    Class Critique: Final Portfolio Website Due<br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
-    <td><strong>Group Critique: Senior Project – Gold Version<br>
-    Group Critique: Final Process PDF, Book &amp; Supporting Files Due<br>
+    <td><strong>Class Critique: Senior Project – Gold Version<br>
+    Class Critique: Final Process PDF, Book &amp; Supporting Files Due</strong><br><br>
     Final Self-Assessment Due<br>
-    Letter to Next Cohort Due</strong></td> 
+    Letter to Next Cohort Due</td> 
 </tr>
 <tr>
     <td>Tue, May 05 – Thu, May 7</td>
