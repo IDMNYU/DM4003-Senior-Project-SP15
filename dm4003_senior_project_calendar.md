@@ -25,8 +25,12 @@
     <td><br>Project Critiques</td>    
 </tr>
 <tr>
+    <td>Before Class Begins</td>
+    <td>READ <i>Do The Work!</i> by Steven Pressfield<br>READ the syllabus and supporting docs on github and be prepared to ask questions on first day of class<br><br>Draft a resume<br>Create a linkedin account and populate as much content as possible<br>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation<br>Draft a cover letter for one of these companies or opportunities</td>    
+</tr>
+<tr>
     <td>Wed, Jan 28</td>
-    <td>READ <i>Do The Work!</i> by Steven Pressfield (before Class)<br>READ the syllabus and supporting docs on github (before Class) and be prepared to ask questions<br>Confirm Project Critique Schedule<br>Create Individual Meeting Order<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
+    <td>Syllabus Q&amp;A<br>Confirm Project Critique Schedule<br>Create Individual Meeting Order<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
