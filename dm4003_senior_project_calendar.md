@@ -121,13 +121,9 @@
     <td>Fri, May 08 – Tue, May 19</td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
-
-
-
 <tr>
-<td></td>
-    <td>Read the required articles. Be prepared to discuss.</td>
-    
+    <td></td>
+    <td>Read the required articles. Be prepared to discuss.</td>   
 </tr>
 </table>
 
