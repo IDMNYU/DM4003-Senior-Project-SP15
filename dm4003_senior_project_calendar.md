@@ -26,7 +26,15 @@
 </tr>
 <tr>
     <td>Before Class Begins</td>
-    <td>Read the syllabus and supporting docs on github and be prepared to ask questions on first day of class<br>Read <i>Do The Work!</i> by Steven Pressfield<br><br>Draft a resume<br>Create a linkedin account and populate as much content as possible<br>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation<br>Draft a cover letter for one of these companies or opportunities</td>    
+    <td>
+    <ul>
+    <li>Read the syllabus and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li>Read <i>Do The Work!</i> by Steven Pressfield and be prepared to discuss</li>
+    <li>Draft a resume (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
+    <li>Create a linkedin account and populate as much content as possible</li>
+    <li>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation(post to basecamp as a message your name as a category)</li>
+    <li>Draft a cover letter for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
+    </ul></td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
@@ -48,7 +56,7 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (if your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
