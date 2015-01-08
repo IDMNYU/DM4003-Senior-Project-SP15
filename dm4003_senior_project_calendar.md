@@ -34,7 +34,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td>10 Minute Project Status Presentations from all students in the class</td> 
+    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>10 Minute Project Status Presentations from all students in the class</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -68,7 +68,8 @@
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td><strong>Midterm Self Assessment Due</strong></td> 
+    <td><strong>Senior Project Website Draft<br>
+    Senior Project – Alpha Version<br>Midterm Self Assessment Due</strong></td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -76,11 +77,11 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td></td> 
+    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback from a classmate</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td></td> 
+    <td>DRAFT of Process PDF DUE</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -93,7 +94,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td></td> 
+    <td>Senior Project – Beta Version</td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
@@ -101,13 +102,13 @@
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td></td> 
+    <td><strong>Final Resume and Cover Letter Due<br>
+    LinkedIn Profile Due<br>
+    Portfolio Website Due<br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
-    <td><strong>Final Resume and Cover Letter Due<br>
-    LinkedIn Profile Due<br>
-    Portfolio Website Due<br>
+    <td><strong>Senior Project – Gold Version<br>
     Process PDF, Book &amp; Supporting Files Due<br>
     Final Self-Assessment Due<br>
     Letter to Next Cohort Due</strong></td> 
@@ -125,55 +126,10 @@
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 
-<tr>
-    <td>Wed, Jan </td>
-    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</td>    
-</tr>
-<tr>
-    <td></td>
-    <td></td> 
-    
-</tr>
+
 
 <tr>
     <td>Read the required articles. Be prepared to discuss.</td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>Share your Process PDF with a classmate for feedback</td>    
-    <td></td>
-</tr>
-<tr>
-    <td>Receive feedback on your Process PDF from a classmate</td>   
-    <td></td>
-<tr>
-<tr>
-    <td>DRAFT of Process PDF</td>
-    <td></td>
-</tr>
-<tr>
-    <td><i></i></td>
-    <td></td>
-</tr>
-<tr>
-    <td>Senior Project Website Draft<br>
-    Senior Project – Alpha Version</td>
-    <td></td>
-</tr>
-
-<tr>
-    <td>Senior Project – Beta Version</td>  
-    <td></td>
-</tr>
-<tr>
-    <td>Senior Project – Gold Version</td> 
-    <td>2015</td>
-</tr>
-
-<tr>
-    <td>
-    </td>
     <td></td>
 </tr>
 </table>
