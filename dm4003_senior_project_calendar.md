@@ -52,15 +52,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
+    <td><strong>Group Critique: Collin<br>Group Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas</strong><br><br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
@@ -86,7 +86,7 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba<srong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
