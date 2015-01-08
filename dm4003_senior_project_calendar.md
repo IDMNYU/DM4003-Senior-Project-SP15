@@ -15,58 +15,128 @@
 
 <table>
 <tr>
-    <td>DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
     <td>DUE DATE<br>
     <i>by or before</i></td>
+    <td>DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
+   
 </tr>
 <tr>
-    <td>Individual Meetings / Senior Project Blog Updates</td>    
     <td>Weekly</td>
+    <td>Individual Meetings / Senior Project Blog Updates<br>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, two students will present.</td>    
 </tr>
 <tr>
+    <td>Weekly</td>
     <td>Read or Reread a chapter in Do The Work!</td>
-    <td>Weekly</td>
 </tr>
 <tr>
-    <td>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, two students will present.    
-    <td>Wednesdays</td>
+    <td>Wed, Jan 28</td>
+    <td>Cover Letter, Resume, and LinkedIn Profile In Class Workshop</td>  
 </tr>
 <tr>
-    <td>10 Minute Project Status Presentations from all students in the class</td>
+    <td>Wed, Feb 04</td>
+    <td>10 Minute Project Status Presentations from all students in the class</td> 
+</tr>
+<tr>
+    <td>Mon, Feb 09</td>
+    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (and receive a 100% of tuition &amp; fees)</td> 
+</tr>
+
+<tr>
+    <td>Wed, Feb 11</td>
+    <td>Project Plan 1st Draft</td> 
+</tr>
+<tr>
+    <td>Tue, Feb 17</td>
+    <td><strong><i>LAST DAY TO DROP</i></strong> (and not receive a grade of 'W')</td> 
+</tr>
+<tr>
+    <td>Wed, Feb 18</td>
+    <td>Project Plan 2nd Draft</td> 
+</tr>
+<tr>
+    <td>Wed, Feb 25</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Mar 04</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Mar 11</td>
+    <td><strong>Midterm Self Assessment Due</strong></td> 
+</tr>
+<tr>
+    <td>Wed, Mar 18</td>
+    <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
+</tr>
+<tr>
+    <td>Wed, Mar 25</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Apr 1</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Fri, Apr 3</td>
+    <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
+</tr>
+
+<tr>
+    <td>Wed, Apr 8</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Apr 15</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Apr 22</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, Apr 29</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Wed, May 06</td>
+    <td></td> 
+</tr>
+<tr>
+    <td>Tue, May 05 – Thu, May 7</td>
+    <td>Reading Days for NYU School of Engineering Undergrad Classes</td> 
+</tr>
+<tr>
+    <td>May TBD</td>
+    <td>End of Semester Public Presentations</td>
+</tr>
+<tr>
+    <td>Fri, May 08 – Tue, May 19</td>
+    <td>Final Exams for NYU School of Engineering Undergrad Classes</td> 
+</tr>
+
+<tr>
     <td>Wed, Jan </td>
+    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</td>    
 </tr>
 <tr>
-    <td><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</td> 
-    <td>Wed, Jan </td>
-</tr>
-<tr>
+    <td></td>
     <td>Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
     </ul></td> 
-    <td></td>
+    
 </tr>
-<tr>
-    <td>Project Plan 1st Draft</td>   
-    <td></td>
-</tr>
+
 <tr>
     <td>Read the required articles. Be prepared to discuss.</td>
     <td></td>
 </tr>
+
 <tr>
-    <td><i>LAST DAY OF DROP/ADD</i></td>   
-    <td></td>
-</tr>
-<tr>
-    <td>Individual One on Ones<br>Midterm Assessment Due</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Share your Process PDF with a classmate for feedback
-    Senior Studio Project – Beta Version</td>    
+    <td>Share your Process PDF with a classmate for feedback</td>    
     <td></td>
 </tr>
 <tr>
@@ -78,7 +148,7 @@
     <td></td>
 </tr>
 <tr>
-    <td><i>LAST DAY TO WITHDRAW</i></td>
+    <td><i></i></td>
     <td></td>
 </tr>
 <tr>
@@ -95,12 +165,9 @@
     <td>Senior Project – Gold Version</td> 
     <td>2015</td>
 </tr>
+
 <tr>
-    <td>End of Semester Public Presentations</td>
-    <td>May 2015 TBD</td>
-</tr>
-<tr>
-    <td>Final One on One<br>
+    <td>
     Resume<br>
     Linked In Profile<br>
     Senior Project Website<br>
