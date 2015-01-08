@@ -26,11 +26,11 @@
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
-    <td>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
+    <td>READ <i>Do The Work!</i> by Steven Pressfield (before Class)<br>READ the syllabus and supporting docs on github (before Class) and be prepared to ask questions<br>Confirm Project Critique Schedule<br>Create Individual Meeting Order<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td>READ: <i>Do The Work!</i> by Steven Pressfield (before Class)<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>10 Minute Project Status Presentations from all students in the class</td> 
+    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -86,15 +86,15 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strnng>Class Critique: Senior Project – Beta Version</strnng></td> 
+    <td><strong>Class Critique: Senior Project – Beta Version</strong></td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
