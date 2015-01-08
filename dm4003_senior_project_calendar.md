@@ -77,7 +77,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Collin<br>Group Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -86,7 +86,7 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba<srong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
@@ -94,7 +94,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>

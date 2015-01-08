@@ -89,7 +89,7 @@ This class will consist of
      (or a combination thereof)
      for 30 minutes total. 
 
-It is the responsibility of each senior to invite an outside critic to at least one of their group critiques. “Outside” might mean a faculty member from IDM or another department, a mentor from the professional world, an expert in your area of research, etc. 
+It is the responsibility of each senior to invite an outside critic to at least one of their group critiques. “Outside” might mean a faculty member from IDM or another department, a mentor from the professional world, an expert in your area of research, etc. A documented meeting with the outside critic outside of the group critique can substitute for their attendance if they have schedule conflicts.
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
@@ -145,12 +145,13 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 * 20% Senior Project Final Project – Gold Version 
-* 20% Process PDF & Book / Supporting Files
+* 15% Process PDF & Book / Supporting Files
 * 15% Portfolio Website
-* 15% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Project Blog)
-* 10% Class Critique Presentations
+* 10% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Project Blog)
+* 10% 
+* 10% Group Critique Presentations
 * 05% End of Semester Public Presentation
-* 05% Midterm Self Assessment
+* 05% Midterm Self Assessment Rubric
 * 05% End of Semester Assessment
 * 05% Letter to Next Cohort
 
