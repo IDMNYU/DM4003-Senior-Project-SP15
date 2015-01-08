@@ -77,7 +77,7 @@
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
-    Class Critique: Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
+    Class Critique: Senior Project – Alpha Version</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -85,7 +85,7 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br>Personal Kanban / Senior Project Blog Updates</td> 
+    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
