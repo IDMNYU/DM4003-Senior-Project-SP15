@@ -28,12 +28,12 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li>Read the syllabus and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li>Read <i>Do The Work!</i> by Steven Pressfield and be prepared to discuss</li>
-    <li>Draft a resume (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
-    <li>Create a linkedin account and populate as much content as possible</li>
-    <li>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation(post to basecamp as a message your name as a category)</li>
-    <li>Draft a cover letter for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
+    <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield and be prepared to discuss</li>
+    <li><strong>Draft a resume</strong> (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
+    <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message your name as a category)</li>
+    <li><strong>Draft a cover letter</strong> for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
     </ul></td>    
 </tr>
 <tr>
