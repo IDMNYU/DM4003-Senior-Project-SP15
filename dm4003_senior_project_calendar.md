@@ -22,7 +22,7 @@
 </tr>
 <tr>
     <td>Weekly</td>
-    <td>Individual Meetings / Senior Project Blog Updates<br>Group Critiques (Schedule To Be Determined)<br>Every Wednesday, 2 to 3 students will present.<br>If you do a group critique, you will NOT meet for an individual meeting that day.</td>    
+    <td><br>Group Critiques</td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
@@ -56,16 +56,16 @@
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td>Group Critique: Isaac<br>Group Critique: Miranda<br></td> 
+    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba</td> 
+    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Senior Project Website Draft<br>
-    Senior Project – Alpha Version<br>Midterm Self Assessment Due</strong></td> 
+    Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong></td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br><br>DRAFT of Process PDF DUE</td> 
+    <td>Group Critique: Collin<br>Group Critique: Lyndsay<br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -86,7 +86,7 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba</td> 
+    <td>Group Critique: Isaac<br>Group Critique: Miranda<br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
@@ -94,18 +94,18 @@
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br></td> 
+    <td>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td><strong>Final Resume and Cover Letter Due<br>
-    Final LinkedIn Profile Due<br>
-    Final Portfolio Website Due<br></strong></td> 
+    <td><strong>Group Critique: Final Resume and Cover Letter Due<br>
+    Group Critique: Final LinkedIn Profile Due<br>
+    Group Critique: Final Portfolio Website Due<br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
-    <td><strong>Senior Project – Gold Version<br>
-    Final Process PDF, Book &amp; Supporting Files Due<br>
+    <td><strong>Group Critique: Senior Project – Gold Version<br>
+    Group Critique: Final Process PDF, Book &amp; Supporting Files Due<br>
     Final Self-Assessment Due<br>
     Letter to Next Cohort Due</strong></td> 
 </tr>

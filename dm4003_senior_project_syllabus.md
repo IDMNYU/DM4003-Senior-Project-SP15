@@ -80,12 +80,13 @@ By the end of the course, students will be able to develop, complete, and docume
 ### COURSE STRUCTURE
 
 This class will consist of 
-* **Individual Meetings**<br>The weekly, individual 15 minute schedule will be determined on the first day of class.
-* **Group critiques**<br>Group critiques will be held for two seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
+* **Individual Meetings**<br>The weekly, individual 10 minute status meetings order will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
+* **Group critiques**<br>Group critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
 
      Each presentation will consist of 
      * 10 to 15 minutes of presentation and 
      * 10 to 15 minutes of critique 
+     (or a combination thereof)
      for 30 minutes total. 
 
 It is the responsibility of each senior to invite an outside critic to at least one of their group critiques. “Outside” might mean a faculty member from IDM or another department, a mentor from the professional world, an expert in your area of research, etc. 
