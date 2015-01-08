@@ -114,7 +114,7 @@
     Letter to Next Cohort Due</strong></td> 
 </tr>
 <tr>
-    <td>Tue, May 05 –<br>Thu, May 7</td>
+    <td>Tue, May 05 – Thu, May 7</td>
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
@@ -122,7 +122,7 @@
     <td><strong>End of Semester Public Presentations</strong></td>
 </tr>
 <tr>
-    <td>Fri, May 08 –<br>Tue, May 19</td>
+    <td>Fri, May 08 – Tue, May 19</td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 
