@@ -43,7 +43,7 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td><br>10 Minute Project Status Presentations from all students in the class (if your project has changed)<br>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (if your project has changed)</strong><br>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
@@ -56,20 +56,20 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
-    Class Critique: Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong></td> 
+    Class Critique: Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -77,11 +77,11 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback</td> 
+    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -90,21 +90,21 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strong>Class Critique: Senior Project – Beta Version</strong></td> 
+    <td><strong>Class Critique: Senior Project – Beta Version</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
     <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
-    Class Critique: Final Portfolio Website Due<br></strong></td> 
+    Class Critique: Final Portfolio Website Due<br></strong><br><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
