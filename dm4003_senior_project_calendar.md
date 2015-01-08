@@ -60,11 +60,11 @@
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas</strong><br><br>Group Critique: Saba<br>Individual Meetings / Senior Project Blog Updates</td> 
+    <td><strong>Group Critique: Kirsten<br>Group Critique: Nicholas<br>Group Critique: Saba</strong><br><br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td><strong>Senior Project Website Draft<br>
+    <td><strong>Portfolio Website Draft<br>
     Senior Project – Alpha Version<br>Midterm Self Assessment Rubric Due</strong></td> 
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback from a classmate</td> 
+    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
@@ -90,7 +90,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><br>Senior Project – Beta Version</td> 
+    <td><strnng>Group Critique: Senior Project – Beta Version</strnng></td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
