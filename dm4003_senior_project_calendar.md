@@ -26,7 +26,7 @@
 </tr>
 <tr>
     <td>Before Class Begins</td>
-    <td>READ <i>Do The Work!</i> by Steven Pressfield<br>READ the syllabus and supporting docs on github and be prepared to ask questions on first day of class<br><br>Draft a resume<br>Create a linkedin account and populate as much content as possible<br>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation<br>Draft a cover letter for one of these companies or opportunities</td>    
+    <td>Read the syllabus and supporting docs on github and be prepared to ask questions on first day of class<br>Read <i>Do The Work!</i> by Steven Pressfield<br><br>Draft a resume<br>Create a linkedin account and populate as much content as possible<br>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation<br>Draft a cover letter for one of these companies or opportunities</td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></td> 
+    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a></td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -56,7 +56,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft<br>Individual Meetings / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
