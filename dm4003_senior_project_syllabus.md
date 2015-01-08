@@ -254,9 +254,6 @@ See Appendix
 ### [PROJECT BLOG](dm4003_senior_project_blog.md)
 See Appendix
 
-### [MIDTERM PROGRESS ASSESSMENT](dm4003_senior_project_midterm_assessment.md)
-See Appendix
-
 ### [END OF SEMESTER DELIVERABLES](dm4003_senior_project_end_of_semester_deliverables.md)
 See Appendix
 
