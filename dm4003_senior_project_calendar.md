@@ -34,7 +34,12 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a></td> 
+    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones
+    <ul>
+    <li>I recommend using post-its so you can move them around
+    OR</li>
+    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
+    </ul></td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -43,12 +48,7 @@
 
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (if your project has changed)</strong><br>Project Plan 1st Draft<br>1st Draft of Visual Representation of your milestones, using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a> 
-    <ul>
-    <li>I recommend using post-its so you can move them around
-    OR</li>
-    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-    </ul></td> 
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (if your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -56,7 +56,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Personal Kanban 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
