@@ -105,7 +105,12 @@
 </tr>
 <tr>
     <td>Wed, May 06</td>
-    <td></td> 
+    <td><strong>Final Resume and Cover Letter Due<br>
+    LinkedIn Profile Due<br>
+    Portfolio Website Due<br>
+    Process PDF, Book &amp; Supporting Files Due<br>
+    Final Self-Assessment Due<br>
+    Letter to Next Cohort Due</strong></td> 
 </tr>
 <tr>
     <td>Tue, May 05 – Thu, May 7</td>
@@ -168,12 +173,7 @@
 
 <tr>
     <td>
-    Resume<br>
-    Linked In Profile<br>
-    Senior Project Website<br>
-    Process PDF, Book &amp; Supporting Files<br>
-    Final Self-Assessment<br>
-    Letter to Next Cohort</td>
+    </td>
     <td></td>
 </tr>
 </table>
