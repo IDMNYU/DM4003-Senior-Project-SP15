@@ -15,9 +15,9 @@
 
 <table>
 <tr>
-    <td width="8%">DUE DATE<br>
+    <td width="10%">DUE DATE<br>
     <i>by or before</i></td>
-    <td width="92%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
+    <td width="90%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
    
 </tr>
 <tr>
