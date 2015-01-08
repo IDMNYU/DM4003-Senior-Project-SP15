@@ -77,7 +77,7 @@
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
-    Class Critique: Senior Project – Alpha Version</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
+    Class Critique: Senior Project – Alpha Version</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
