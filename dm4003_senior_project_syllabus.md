@@ -149,20 +149,20 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 20% Senior Project Final Project – Gold Version 
+* 15% Senior Project – Gold Version 
 * 15% Process PDF & Book / Supporting Files
-* 15% Portfolio Website
-* 10% Weekly Progress (Personal Kanban (Project Milestones), Calendar & Senior Project Blog)
-* 10% Outside Critique
+* 10% Portfolio Website
+* 10% Weekly Progress*
+* 10% Resume, Cover Letter, and LinkedIn Profile
 * 10% Project Critique Presentations
-* 05% 
-* 05% Resume and Cover Letter
+* 05% Career Counseling Appt. through NYU's Waserman Center
+* 05% Outside Critique
 * 05% End of Semester Public Presentation
 * 05% Midterm Self Assessment Rubric
 * 05% End of Semester Assessment
 * 05% Letter to Next Cohort
 
-*Weekly progress will be based on your personal kanban & blog documentation*
+*Weekly progress will be based on your personal kanban (project milestones), calendar, & senior project blog documentation*
 
 ##### Qualitative Grading Overview
 
@@ -253,7 +253,7 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
 
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
 
 * [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 

@@ -53,7 +53,7 @@
     <li>How bad do you want to complete your project? (p. 68)</li>
     <li>Why do you want to complete your project? (p. 68-69)</li>
     </ul>
-    (<strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring?)</td>
+    (<strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring? <strong>Show and discuss prior work as evidence of your ability to engage in this project.</strong>)</td>
 </tr>
 <tr>
     <td><strong>Target Audience</strong></td> 
@@ -70,14 +70,14 @@
 </tr>
 <tr>
     <td><strong>Resources</strong></td>   
-    <td>
+    <td>Including, but not limited to:
     <ul>
-    <li>List of Collaborators, Participants, and Advisors (People and their roles)</li>
+    <li>List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available</li>
     <li>Materials &amp; Vendors List</li>
     <li>Technical requirements</li>
     <li>Budget</li>
     </ul>
-    (How are you achieving this?)</td> 
+    You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)</td> 
 </tr>
 <tr>
     <td><strong>Research / Reference / Inspiration</strong></td>        
