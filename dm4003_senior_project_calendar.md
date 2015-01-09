@@ -39,7 +39,13 @@
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
-    <td>Syllabus Q&amp;A<br>Confirm Project Critique Schedule<br>Create Individual Meeting Order<br><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>IN CLASS WORKSHOP: Cover Letter, Resume, and LinkedIn Profile</td>  
+    <td>Syllabus Q&amp;A<br>
+    Confirm Project Critique Schedule<br>
+    Create Individual Meeting Order<br>
+    <a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>
+    Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield<br>
+    Discuss assigned chapters in <i>Show Your Work!</i><br>
+    IN-CLASS Workshop: Resume and Cover Letters</td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
@@ -97,7 +103,7 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
+    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
@@ -124,14 +130,14 @@
     <td>Wed, Apr 29</td>
     <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
-    Class Critique: Final Portfolio Website Due<br></strong></td> 
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a><br></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
     <td><strong>Class Critique: Senior Project – Gold Version<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
-    Your Process Book should be ordered by or before this date to avoid rush shipping charges<br>
+    Your <a href="dm4003_senior_project_end_of_semester_deliverables.md">Process Book</a> should be ordered by or before this date to avoid rush shipping charges<br>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>

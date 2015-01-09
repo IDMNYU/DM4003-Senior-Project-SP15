@@ -33,16 +33,16 @@ Use the content of your project plan and blog for your process PDF & book. Here 
 * http://issuu.com/russmaschmeyer/docs/motiv-process-book
 
 
-### PROJECT WEBSITE
+### PORTFOLIO WEBSITE
 *NOTE: This is different than your Senior Project Blog.*
-This website should market and promote your project. At the very least, it should contain a description, visual documentation, etc. Ideally, your project should have its own URL, but this is not required. A sub-domain is the next viable option.
+This website should market and promote your body of work for possible employment or other post graduation opportunities.
 
 
 ### END OF SEMESTER PUBLIC PRESENTATIONS
 Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
 
 
-### END OF SEMESTER ASSESSMENT
+### FINAL SElF-ASSESSMENT
 
 * Please name your file as yourname_midterm_assessment.pdf
 * Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
