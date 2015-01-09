@@ -62,7 +62,7 @@
     <li>2 Middle p. 32-52</li>
     <li>The Belly of the Beast p. 53-70</li>
     </ul>
-    <br><br>Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -88,7 +88,7 @@
     <ul>
     <li>2 Middle p. 71-85</li>
     </ul>
-    <br><br>Personal Kanban / Senior Project Blog Updates</td> 
+    <br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
