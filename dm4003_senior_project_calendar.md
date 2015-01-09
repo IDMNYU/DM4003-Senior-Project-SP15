@@ -48,7 +48,8 @@
     <li>I recommend using post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-    </ul><br>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu</td> 
+    </ul>
+    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -88,7 +89,7 @@
     <ul>
     <li>2 Middle p. 71-85</li>
     </ul>
-    <br>Personal Kanban / Senior Project Blog Updates</td> 
+    Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -128,14 +129,15 @@
 <tr>
     <td>Wed, May 06</td>
     <td><strong>Class Critique: Senior Project – Gold Version<br>
-    Class Critique: Final Process PDF, Book &amp; Supporting Files Due<br>
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
+    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
+    Your Process Book should be ordered by or before this date to avoid rush shipping charges<br>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
     </ul>
-    <br><br>
-    Final Self-Assessment Due<br>
-    Letter to Next Cohort Due</td> 
+    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
+    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 
 </tr>
 <tr>
     <td>Tue, May 05 – Thu, May 7</td>
