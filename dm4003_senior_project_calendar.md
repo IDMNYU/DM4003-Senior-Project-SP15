@@ -17,8 +17,7 @@
 <tr>
     <td width="15%">DUE DATE<br>
     <i>by or before</i></td>
-    <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td>
-   
+    <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
 </tr>
 <tr>
     <td></td>
@@ -30,6 +29,12 @@
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
     <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield and be prepared to discuss</li>
+        <ul>
+        <li>About this Book p.1-2</li>
+        <li>Orientation: Enemies and Allies p. 3-16</li>
+        <li>Beginning p. 17-31</li>
+        </ul>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon and be prepared to discuss</li>
     <li><strong>Draft a resume</strong> (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message your name as a category)</li>
@@ -42,18 +47,17 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones
+    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="project plan">dm4003_senior_project_plan.md</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-    </ul></td> 
+    </ul><br>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (and receive a 100% of tuition &amp; fees)</td> 
 </tr>
-
 <tr>
     <td>Wed, Feb 11</td>
     <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
@@ -133,7 +137,6 @@
     <td>Fri, May 08 – Tue, May 19</td>
     <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
-
 </table>
 
 

@@ -12,7 +12,7 @@
 
 * Please post **as a PDF** to basecamp as a Message with your name as a category
 * Please name your file as yourname_project_plan.pdf
-* Please note that any significant changes to your project will require the submission of revised project plan.
+* Please note that any significant changes to your project will require the submission of a revised project plan.
 
 <table>
 <tr>
@@ -22,6 +22,7 @@
     <li>Your first and last name</li>
     <li>Project Title</li>
     <li>Senior Project in Digital Media</li>
+    <li>Duff</li>
     <li>New York University</li>
     <li>Spring 2015</li></td>
 </tr>
@@ -33,7 +34,11 @@
     <td><strong>Project Statement / Goal</strong></td>    
     <td>Read <i>Do The Work</i> and answer the following questions. 
     <ul>
-    <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28) 1 to 4 sentences max. 3 if you follow Steven Pressfield’s 3-act structure.</li>
+    <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28)
+        <ul>
+        <li>1 to 4 sentences max.</li>
+        <li>3 if you follow Steven Pressfield’s 3-act structure.</li>
+        </ul>
     <li>What is your project’s theme(s)? (p. 48)</li>
     </ul>
 
@@ -43,12 +48,11 @@
     <td><strong>Your motivation, drive, and/or purpose</strong></td> 
     <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
-    <li>What or who are your enemies? (p. 4)</li>
-    <li>What or who are your allies? (p. 12)</li>
+    <li>What does she love? (p. 24)</li>
     <li>How bad do you want to complete your project? (p. 68)</li>
     <li>Why do you want to complete your project? (p. 68)</li>
     </ul>
-    (Why are you doing this project? What are you discovering here? What questions are you asking? What are you exploring?)</td>
+    (<strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring?)</td>
 </tr>
 <tr>
     <td><strong>Target Audience</strong></td> 
@@ -110,7 +114,7 @@
 </tr>
 <tr>
     <td><strong>Milestones / Calendar</strong></td>
-    <td>Break down your tasks into actionable tasks</td>
+    <td>Break down your milesontes into actionable tasks</td>
 </tr>
 <tr>  
 <tr>
