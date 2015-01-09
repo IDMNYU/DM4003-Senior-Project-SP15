@@ -24,17 +24,17 @@
     <td>
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in NYU bookstore), take notes, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
         <li>1 Beginning p. 17-31</li>
         </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon and be prepared to discuss</li>
-    <li><strong>Draft a resume</strong> (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in NYU bookstore) and be prepared to discuss</li>
+    <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li>
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
-    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message your name as a category)</li>
-    <li><strong>Draft a cover letter</strong> for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message with your name as a category)</li>
+    <li><strong>Draft a cover letter</strong>. Bring at least 4 printed copies to the 1st day of class.</li>
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>Project Plan 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critiques: Collin<br>Project Critique: Lyndsey</strong><br><br>Project Plan 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
@@ -113,7 +113,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsay</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsey</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>

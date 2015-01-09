@@ -85,15 +85,6 @@ Feedback re: required books
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
 
 
-**PRINTED ASSIGNMENTS**
-Any printed assignments should always contain the following: 
-
-* Date
-* Your first and last name
-* DM 4003 Senior Project in Digital Media
-* Spring 2015
-* Duff
-* Title of project or assignment
 
 
 

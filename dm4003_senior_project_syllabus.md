@@ -11,7 +11,7 @@
 ###Github Repository: http://github.com/IDMNYU/DM4003-Senior-Project-SP15
 
 ####Course Management Site
-* http://basecamp.com | http://polishedsolid.basecamphq.com | http://thesis.polishedsolid.com
+* http://basecamp.com | http://polishedsolid.basecamphq.com | http://sp.polishedsolid.com
 
 
 ---
@@ -23,13 +23,13 @@
 
 ## Welcome to Senior Project In Digital Media!
 
-Senior Project is the capstone course for the Integrated Digital Media program. Senior Project mirrors the creative process that professional artists, designers, and entrepreneurs must practice throughout their entire careers. 
+**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. Senior Project in Digital Media mirrors the creative process that professional artists, designers, and entrepreneurs must practice throughout their entire careers. 
 
 The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity.  
 
-To achieve this students will involve themselves in an semester-long thesis that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, and/or entrepreneurs.
+To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, and/or entrepreneurs.
 
-As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you present during Junior Review. This is normal and OK.
+As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
 
 ## Your Commitment to Senior Project
@@ -46,11 +46,11 @@ How are you currently feeling about your Senior Project?
 * Hell Yeah! or 
 * No:( 
 
-If you are NOT feeling “Hell Yeah!” about your project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project, again, AND the required and recommended readings NOW!
+If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
 
-Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You live, eat, breath, sleep this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
+Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
-Senior Project is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow studio mates and advisors. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
+Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow class mates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
 
 
 ### PROGRAM GOALS
@@ -69,21 +69,21 @@ The following IDM program goals are reinforced within this course. At a graduate
 ### COURSE GOALS
 
 This course will help students to:
-* To determine, communicate, and accomplish your own vision and goals for your senior project. 
-* To practice an iterative design process in conjunction with effective project management skills.
-* To continue to hone all aspects of communication about your creative process and work through discourse, presentations, and writing.
+* determine, communicate, and accomplish your own vision and goals for your senior project. 
+* practice an iterative design process in conjunction with effective project management skills.
+* continue to hone all aspects of communication about your creative process and work through discourse, presentations, and writing.
 
 
 ### LEARNING OUTCOMES
 
-By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes (employment, gallery shows, funding, starting a business, etc.).
+By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes (employment, gallery shows, starting a business, etc.).
 
 
 ### COURSE STRUCTURE
 
 This class will consist of 
 * **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
-* **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
+* **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
      * 10 to 15 minutes of presentation and 
