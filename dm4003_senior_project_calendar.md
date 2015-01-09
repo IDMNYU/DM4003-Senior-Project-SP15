@@ -35,6 +35,7 @@
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message your name as a category)</li>
     <li><strong>Draft a cover letter</strong> for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
+    <li>Populate a calendar with due dates for this class</li>
     </ul></td>    
 </tr>
 <tr>
