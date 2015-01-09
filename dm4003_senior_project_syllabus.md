@@ -155,6 +155,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% Weekly Progress (Personal Kanban (Project Milestones), Calendar & Senior Project Blog)
 * 10% Outside Critique
 * 10% Project Critique Presentations
+* 05% 
+* 05% Resume and Cover Letter
 * 05% End of Semester Public Presentation
 * 05% Midterm Self Assessment Rubric
 * 05% End of Semester Assessment
