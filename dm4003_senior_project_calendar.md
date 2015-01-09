@@ -54,11 +54,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones
+    <td>
     <ul>
-    <li>I recommend using post-its so you can move them around
-    OR</li>
-    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
+    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)</li>
+    <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones</li>
+        <ul>
+        <li>I recommend using post-its so you can move them around
+        OR</li>
+        <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
+        </ul>
     </ul>
     Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
 </tr>
