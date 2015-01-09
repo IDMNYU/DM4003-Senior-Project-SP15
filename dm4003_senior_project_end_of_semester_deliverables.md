@@ -34,7 +34,7 @@ Use the content of your project plan and blog for your process PDF & book. Here 
 
 
 ### PORTFOLIO WEBSITE
-*NOTE: This is different than your Senior Project Blog.*
+*NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Blog</a>.*
 This website should market and promote your body of work for possible employment or other post graduation opportunities.
 
 
@@ -48,7 +48,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
      for 20 minutes total. 
 
 
-### FINAL SElF-ASSESSMENT
+### FINAL SELF-ASSESSMENT
 
 * Please name your file as yourname_midterm_assessment.pdf
 * Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
