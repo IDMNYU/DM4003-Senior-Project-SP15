@@ -47,9 +47,9 @@
 </tr>
 <tr>
     <td><strong>Your motivation, drive, and/or purpose</strong></td> 
-    <td>Read <i>Do The Work</i> and answer the following questions.
+    <td>Read <i>Do The Work</i> and answer the following questions in context of your project.
     <ul>
-    <li>What does she love? (p. 24)</li>
+    <li>What does she (you) love? (p. 24)</li>
     <li>How bad do you want to complete your project? (p. 68)</li>
     <li>Why do you want to complete your project? (p. 68-69)</li>
     </ul>

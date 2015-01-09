@@ -54,15 +54,11 @@
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td>
+    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
-    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)</li>
-    <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual Representation of your milestones</li>
-        <ul>
-        <li>I recommend using post-its so you can move them around
-        OR</li>
-        <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-        </ul>
+    <li>I recommend using post-its so you can move them around
+    OR</li>
+    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
     </ul>
     Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
 </tr>
@@ -72,7 +68,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)<br>
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)<br><br>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>2 Middle p. 32-52</li>
@@ -112,7 +108,8 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br>IN CLASS WORKSHOP: Share your Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
+    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br>
+    IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
@@ -160,7 +157,7 @@
 </tr>
 <tr>
     <td>May TBD</td>
-    <td><strong>End of Semester Public Presentations</strong></td>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></td>
 </tr>
 <tr>
     <td>Fri, May 08 – Tue, May 19</td>
