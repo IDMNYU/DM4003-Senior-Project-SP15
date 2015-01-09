@@ -37,7 +37,9 @@ Excerpt from the book *Anything You Want* by Derek Sivers
 
      No “yes.” 
      Either “HELL YEAH!” or “no.”
-     If you’re not saying “HELL YEAH!” about something, say “no.” When deciding whether to do something, if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!”—then say “no.” 
+     If you’re not saying “HELL YEAH!” about something, say “no.” 
+
+     When deciding whether to do something, if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!”—then say “no.” 
 
 How are you currently feeling about your Senior Project? 
 * Yes. 
@@ -228,6 +230,8 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [AIGA's Survey of Design Salary 2014] (http://designsalaries.aiga.org)
 
+* [Speaking.io] (http://speaking.io)
+
 * [NYU's CareerNet] (https://nyu-csm.symplicity.com/students)
 
 * [NYU's Wasserman Center for Career Development] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
@@ -238,7 +242,7 @@ The following books are available for purchase in the NYU library. I highly sugg
   
     * [NYU's Wasserman Center's Cover Letter Sample] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
 
-  * [NYU's Wasserman Center's Resume &amp; Cover Letters] (https://events.nyu.edu/#view/all/group/wasserman-center)
+  * [NYU's Wasserman Center's Events] (https://events.nyu.edu/#view/all/group/wasserman-center)
 
   * [NYU's Wasserman Center's Finding a Mentor] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
 

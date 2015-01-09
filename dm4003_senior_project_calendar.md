@@ -20,19 +20,15 @@
     <td width="85%">DELIVERABLES<br><i>All dates and assignments are subject to change at the discretion of the professor</i></td> 
 </tr>
 <tr>
-    <td></td>
-    <td>Read the required articles. Be prepared to discuss.</td>   
-</tr>
-<tr>
     <td>Before Class Begins</td>
     <td>
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield and be prepared to discuss</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
-        <li>Beginning p. 17-31</li>
+        <li>1 Beginning p. 17-31</li>
         </ul>
     <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon and be prepared to discuss</li>
     <li><strong>Draft a resume</strong> (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_resume.pdf))</li>
@@ -60,7 +56,13 @@
 </tr>
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</strong><br><br>Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)<br>
+    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <ul>
+    <li>2 Middle p. 32-52</li>
+    <li>The Belly of the Beast p. 53-70</li>
+    </ul>
+    <br><br>Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -81,7 +83,12 @@
 <tr>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
-    Class Critique: Senior Project – Alpha Version</strong><br><br>Personal Kanban / Senior Project Blog Updates</td> 
+    Class Critique: Senior Project – Alpha Version<br>
+    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <ul>
+    <li>2 Middle p. 71-85</li>
+    </ul>
+    <br><br>Personal Kanban / Senior Project Blog Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -121,7 +128,12 @@
 <tr>
     <td>Wed, May 06</td>
     <td><strong>Class Critique: Senior Project – Gold Version<br>
-    Class Critique: Final Process PDF, Book &amp; Supporting Files Due</strong><br><br>
+    Class Critique: Final Process PDF, Book &amp; Supporting Files Due<br>
+    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <ul>
+    <li>3 end p.87-98</li>
+    </ul>
+    <br><br>
     Final Self-Assessment Due<br>
     Letter to Next Cohort Due</td> 
 </tr>

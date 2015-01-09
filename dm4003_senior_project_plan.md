@@ -10,6 +10,7 @@
 
 ## PROJECT PLAN
 
+<strong>Please note you can do senior team projects.</strong>
 * Please post **as a PDF** to basecamp as a Message with your name as a category
 * Please name your file as yourname_project_plan.pdf
 * Please note that any significant changes to your project will require the submission of a revised project plan.
@@ -50,7 +51,7 @@
     <ul>
     <li>What does she love? (p. 24)</li>
     <li>How bad do you want to complete your project? (p. 68)</li>
-    <li>Why do you want to complete your project? (p. 68)</li>
+    <li>Why do you want to complete your project? (p. 68-69)</li>
     </ul>
     (<strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring?)</td>
 </tr>
@@ -67,7 +68,7 @@
 </tr>
 <tr>
     <td><strong>Competitive Analysis</strong></td>
-    <td>Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)?</td>
+    <td>Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? </td>
 </tr>
 <tr>
     <td><strong>Resources</strong></td>   
@@ -82,39 +83,43 @@
 </tr>
 <tr>
     <td><strong>Research / Reference / Inspiration</strong></td>        
-    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, comparative analysis of similar projects, tech research, material research, visual research, collection, interviews, observation, etc.
-    <ul>
-    <li>You should decide what kinds of research / reference / inspiration is most appropriate for your project.</li>
-    </ul></td>
+    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+        <ul>
+        <li>You should decide what kinds of research / reference / inspiration is most appropriate for your project.</li>
+        </ul>
+    </td>
 </tr>
 <tr>
     <td><strong>Design</strong></td>  
     <td>Including, but not limited to, design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
-    <ul>
-    <li>You should decide which processes are most appropriate for your project.</li>
-    </ul></td>
+        <ul>
+        <li>You should decide which processes are most appropriate for your project.</li>
+        </ul>
+    </td>
 </tr> 
 <tr>
     <td><strong>Development</strong></td> 
     <td>Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
-    <ul>
-    <li>You should know what the concept of a prototype is, particularly if you took the RSMP course, but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
-    <li>As a result, a prototype can take on many forms. Essentially, it is your project or aspects of your project in an unfinished form.</li>
-    <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li></td>
+        <ul>
+        <li>You should know what the concept of a prototype is, particularly if you took the RSMP course, but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
+        <li>As a result, a prototype can take on many forms. Essentially, it is your project or aspects of your project in an unfinished form.</li>
+        <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
+        </ul>
+    </td>
 </tr>
 <tr>
     <td><strong>Project Versions</strong></td> 
     <td>Alpha, Beta, and Gold refer to a project’s life cycle.
-    <ul>
-    <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
-    <li><strong>Beta</strong> Version is when the functionality, form, and implementation is complete as possible. It is ready for user testing.</li>
-    <li><strong>Gold</strong> Version is when all the bugs have been fixed and quality is assured. It is ready to go public.</li>
-    </ul>
+        <ul>
+        <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
+        <li><strong>Beta</strong> Version is when the functionality, form, and implementation is complete as possible. It is ready for user testing.</li>
+        <li><strong>Gold</strong> Version is when all the bugs have been fixed and quality is assured. It is ready to go public.</li>
+        </ul>
     The specific parameters and expectations of each version will be individually determined in consultation with the professor.</td>
 </tr>
 <tr>
     <td><strong>Milestones / Calendar</strong></td>
-    <td>Break down your milesontes into actionable tasks</td>
+    <td>Break down your milestones into actionable tasks.</td>
 </tr>
 <tr>  
 <tr>
