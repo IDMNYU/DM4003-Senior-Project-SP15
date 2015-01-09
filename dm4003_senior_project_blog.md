@@ -24,9 +24,15 @@ Spencer Hargiss’ process blog is a good example, http://www.spencerhargiss.com
 * *Weekly Project Progress*
   * at least, 1 post per week. The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar), but may also include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
 
+* *Milestones / Tasks that have been completed*
+  * Include visual and/or audio documentation.
+  * Include who or what was involved.
+  * If you do not do anything for the week, write **I did not work on this project this week.**
+
 * *Sourced & Annotated Research / Reference / Inspiration* 
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?
   * Annotated means with notes. You don’t have to write a novel. 1 to 2 thoughtful, contextual sentences is more than enough. So, “This was inspirational,” would not be a good note as it provides no context for your project. However, “This book discusses how nostalgia is a useless emotion because nostalgia is based on the past. This point of view is antithetical to my thesis because I’m trying to demonstrate how the sentimentality of nostalgia is valuable to the human experience.” is a viable note.)
+
 
 **What your blog should NOT contain?**
 * How you are feeling about your process or project? This is different than evaluating or reflecting about what is working and what is not working. In other words, don’t rant, complain, blame, self-deprecate or make excuses on your blog. 
