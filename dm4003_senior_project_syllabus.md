@@ -80,7 +80,7 @@ By the end of the course, students will be able to develop, complete, and docume
 ### COURSE STRUCTURE
 
 This class will consist of 
-* **Individual Meetings**<br>The weekly, individual 10 minute status meetings order will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
+* **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
 * **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and outside critics, at times. 
 
      Each presentation will consist of 
@@ -89,9 +89,9 @@ This class will consist of
      (or a combination thereof)
      for 30 minutes total. 
 
-It is the responsibility of each senior to invite an outside critic to at least one of their group critiques. “Outside” might mean a faculty member from IDM or another department, a mentor from the professional world, an expert in your area of research, etc. A documented meeting with the outside critic outside of the group critique can substitute for their attendance if they have schedule conflicts.
+It is the responsibility of each senior to invite an outside critic to at least one of their project critiques. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, <strong>documented</strong> meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least one classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged
@@ -104,41 +104,44 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
 * Email contact about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to the weekly group critique on Wednesdays and your individual meetings on time. 
-* Participate in group critiques and discussions. Be vocal.
-* Present your work during group critiques at least twice during the course of the semester. 
+* Come to the weekly project critique on Wednesdays and your individual meetings on time. 
+* Participate in project critiques and discussions. Be vocal.
+* Present your work during project critiques at least twice during the course of the semester. 
 * Meet, individually, with the professor on a weekly basis during your scheduled time to discuss your project progress.
 * Consult basecamp at least once a week for up to date info
-* Maintain a weekly, senior studio project blog 
+* Maintain a weekly, dedicated, senior project blog 
 * Complete all deliverables by their due dates
 * Acquire and read copies of the required books
 * Action – do your absolute best
 * Strive for continuous improvement
+* Pay attention to detail & craft
+* Take risks & be fearless in your projects
+* Have fun!
+
+
+### STUDENT VALUES
+
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have self-motivation, proactiveness, and focus 
 * Have patience, persistence, and discipline 
 * Be creative
-* Pay attention to detail & craft
 * Have self-confidence and pride in your work
-* Take risks & be fearless in your projects
-* Have fun!
 
 
 ### EVALUATION & GRADING
 
 ##### Attendance
 
-* Attendance is mandatory during group critiques and every student’s end of semester presentations.  
+* Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to reschedule with the professor. 
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
-* Attendance is mandatory for the midterm and final presentations.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
@@ -147,7 +150,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 20% Senior Project Final Project – Gold Version 
 * 15% Process PDF & Book / Supporting Files
 * 15% Portfolio Website
-* 10% Weekly Progress (Personal Kanban (Project Milestones) & Senior Project Blog)
+* 10% Weekly Progress (Personal Kanban (Project Milestones), Calendar & Senior Project Blog)
 * 10% Outside Critique
 * 10% Project Critique Presentations
 * 05% End of Semester Public Presentation
@@ -159,7 +162,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Qualitative Grading Overview
 
-You will be judged on the quality, relevance, iteration, completion, and presentation of your senior project’s alpha, beta, and gold version(s). 
+You will be judged on the quality, relevance, iteration, completion, and presentation of your senior project work. 
 
 ###### A. Excellent (90-100)
 The performance and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. The work clearly differentiates itself from other work. The work has memorable impact, and pursues concepts and techniques above and beyond original goals. The ideas behind the work are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. The work demonstrates the student’s ability to think critically and work independently. The work also demonstrates the student’s use of strong methods and process.
@@ -189,7 +192,7 @@ All work for this class must be your own and specific to this semester. Any work
 
 ### ACADEMIC ACCOMMODATIONS
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 
 ### ADDITIONAL INFO REGARDING PRINTING
@@ -199,10 +202,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
-* Github Account: github.com/join
-* Developer Tools for Chrome or Firefox
-  * Firebug for Firefox, http://getfirebug.com
-  * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools http://discover-devtools.codeschool.com
+* Github Account: (http://github.com/join)
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
 * Web Server Space
@@ -215,20 +215,19 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [Do The Work] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 
-
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
-
 
 
 ### REQUIRED WEBSITE
 * [Personal Kanban] (http://www.personalkanban.com)
 
 
-### REQUIRED ARTICLES
+### RECOMMENDED RESOURCES
+* [NYU's Wasserman Center for Career Development] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
 
-* [Why Success Always Starts With Failure by Sarah Rapp] (http://99u.com/tips/7072/Why-Success-Always-Starts-With-Failure)
+  * [NYU's Wasserman Center's Resume &amp; Cover Letters] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
 
-* [Why Can’t I Finish? by Elizabeth Grace Saunders] (http://99u.com/tips/7062/Why-Cant-I-Finish)
+  * [NYU's Wasserman Center's Resume &amp; Cover Letters] (https://events.nyu.edu/#view/all/group/wasserman-center)
 
 
 ### RECOMMENDED BOOKS
@@ -237,12 +236,11 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield
 
-
-* [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
-
 * [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 
 * [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
+
+* [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
 * [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
