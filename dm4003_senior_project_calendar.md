@@ -35,18 +35,22 @@
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message your name as a category)</li>
     <li><strong>Draft a cover letter</strong> for one of these companies or opportunities (post to basecamp as a message with a PDF attachment with your name as a category and make sure the filename contains your name (i.e. yourname_cover_ltr_company.pdf))</li>
-    <li>Populate a calendar with due dates for this class</li>
+    <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>
 <tr>
     <td>Wed, Jan 28</td>
-    <td>Syllabus Q&amp;A<br>
-    Confirm Project Critique Schedule<br>
-    Create Individual Meeting Order<br>
-    <a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43<br>
-    Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield<br>
-    Discuss assigned chapters in <i>Show Your Work!</i><br>
-    IN-CLASS Workshop: Resume and Cover Letters</td>  
+    <td>
+        <ul>
+        <li>Syllabus Q&amp;A</li>
+        <li>Confirm Project Critique Schedule</li>
+        <li>Create Individual Meeting Order</li>
+        <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
+        <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
+        <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
+        <li>IN-CLASS Workshop: Resume and Cover Letters</li>
+        </ul>
+</td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
@@ -56,11 +60,11 @@
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
     </ul>
-    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu</td> 
+    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
-    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (and receive a 100% of tuition &amp; fees)</td> 
+    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)</td> 
 </tr>
 <tr>
     <td>Wed, Feb 11</td>
