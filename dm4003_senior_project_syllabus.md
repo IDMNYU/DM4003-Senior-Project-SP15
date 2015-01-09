@@ -227,6 +227,10 @@ The following books are available for purchase in the NYU library. I highly sugg
 
   * [NYU's Wasserman Center's Resume &amp; Cover Letters] (http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
 
+    * [NYU's Wasserman Center's Resume Samples] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf)
+  
+    * [NYU's Wasserman Center's Cover Letter Sample] (http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
+
   * [NYU's Wasserman Center's Resume &amp; Cover Letters] (https://events.nyu.edu/#view/all/group/wasserman-center)
 
 
