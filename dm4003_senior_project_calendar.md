@@ -24,13 +24,17 @@
     <td>
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in NYU bookstore), take notes, and be prepared to discuss</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), take notes, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
         <li>1 Beginning p. 17-31</li>
         </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in NYU bookstore) and be prepared to discuss</li>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), take notes, and be prepared to discuss</li>
+        <ul>
+        <li>2. Think Process, Not Product, p. 30-43</li>
+        <li>3. Share Something Small Every Day, p. 44-69</li>
+        </ul>
     <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li>
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message with your name as a category)</li>
@@ -147,6 +151,11 @@
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
+    </ul>
+     Read Show Your Work!</strong> by Austin Kleon, take notes, and be prepared to discuss
+    <ul>
+    <li>9 Sell Out p.158-179</li>
+    <li>10 Stick Around p.180-199</li>
     </ul>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 

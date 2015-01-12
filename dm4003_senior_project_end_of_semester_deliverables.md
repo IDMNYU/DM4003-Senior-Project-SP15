@@ -57,9 +57,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 * Critically analyze/evaluate your senior project process and progress
 * What qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * What qualitative description would you give the final execution of your project so far and why?
-* Do your deliverables match your initial concept (or last impact statement)?
-  * Did you do what you said you were going to do (integrity, accountability)?
-* Did you execute all aspects of your project by the best means possible?
+* Lessons Learned / What would you do differently?
 
 **Of Self**
 * How have you grown as a creative over the course of the semester?

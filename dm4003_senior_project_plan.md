@@ -106,7 +106,7 @@
     </td>
 </tr>
 <tr>
-    <td><strong>Project Versions</strong></td> 
+    <td><strong>Deliverables / Project Versions</strong></td> 
     <td>Alpha, Beta, and Gold refer to a project’s life cycle.
         <ul>
         <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
