@@ -80,8 +80,10 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### COURSE STRUCTURE
 
+Students should be aware that they are expected to be on time for all meetings, critiques, and presentations. 
+
 This class will consist of 
-* **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day.
+* **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 * **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
@@ -140,7 +142,9 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Attendance
 
-* Attendance is mandatory during project critiques and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to reschedule with the professor. 
+* Attendance is mandatory during project critiques and every student’s end of semester public presentations. 
+* Missed individual meetings will not be rescheduled; students will have to wait for their next assigned meeting time.
+* In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
