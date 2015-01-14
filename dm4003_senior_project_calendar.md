@@ -64,7 +64,7 @@
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
     </ul>
-    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_blog.md">dedicated project blog</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
+    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_project website.md">dedicated project project website</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -78,7 +78,7 @@
     <li>2 Middle p. 32-52</li>
     <li>The Belly of the Beast p. 53-70</li>
     </ul>
-    Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    Project Plan 1st Draft Due<br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -86,15 +86,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critiques: Collin<br>Project Critique: Lyndsey</strong><br><br>Project Plan 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critiques: Collin<br>Project Critique: Lyndsey</strong><br><br>Project Plan 2nd Draft<br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
@@ -104,7 +104,7 @@
     <ul>
     <li>2 Middle p. 71-85</li>
     </ul>
-    Personal Kanban / Senior Project Blog Updates</td> 
+    Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Mar 18</td>
@@ -113,11 +113,11 @@
 <tr>
     <td>Wed, Mar 25</td>
     <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br>
-    IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Blog Updates</td> 
+    IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsey</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsey</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -126,28 +126,27 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strong>Class Critique: Senior Project – Beta Version</strong><br>Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Class Critique: Senior Project – Beta Version</strong><br>Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Blog Updates</td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / Senior Project Website Updates</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
     <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a><br></strong></td> 
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a><br><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
     <td><strong>Class Critique: Senior Project – Gold Version<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
-    Your <a href="dm4003_senior_project_end_of_semester_deliverables.md">Process Book</a> should be ordered by or before this date to avoid rush shipping charges<br>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
