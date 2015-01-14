@@ -25,9 +25,7 @@
 
 **What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. Senior Project in Digital Media mirrors the creative process that professional artists, designers, and entrepreneurs must practice throughout their entire careers. 
 
-The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity.  
-
-To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, and/or entrepreneurs.
+The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, and/or entrepreneurs.
 
 As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
@@ -71,8 +69,8 @@ The following IDM program goals are reinforced within this course. At a graduate
 
 This course will help students to:
 * determine, communicate, and accomplish your own vision and goals for your senior project. 
-* practice an iterative design process in conjunction with effective project management skills.
-* continue to hone all aspects of communication about your creative process and work through discourse, presentations, and writing.
+* practice an iterative design process in conjunction with effective project & time management skills.
+* continue to hone all aspects of professional communication about your creative process and work through discourse, presentations, and writing.
 
 
 ### LEARNING OUTCOMES
@@ -118,7 +116,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Present your work during project critiques at least twice during the course of the semester. 
 * Meet, individually, with the professor on a weekly basis during your scheduled time to discuss your project progress.
 * Consult basecamp at least once a week for up to date info
-* Maintain a weekly, dedicated, senior project blog 
+* Maintain a weekly, dedicated, project website
+* **Back up your work constantly** 
 * Complete all deliverables by their due dates
 * Acquire and read copies of the required books
 * Action – do your absolute best
@@ -141,7 +140,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Attendance
 
-* Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to reschedule with the professor. 
+* Attendance is mandatory during project critiques and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to reschedule with the professor. 
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).

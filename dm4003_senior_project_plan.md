@@ -80,10 +80,10 @@
     You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)</td> 
 </tr>
 <tr>
-    <td><strong>Research / Reference / Inspiration</strong></td>        
+    <td><strong>Research / Reference / Influences</strong></td>        
     <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         <ul>
-        <li>You should decide what kinds of research / reference / inspiration is most appropriate for your project.</li>
+        <li>You should decide what kinds of research / reference / influences is most appropriate for your project.</li>
         </ul>
     </td>
 </tr>
@@ -99,7 +99,7 @@
     <td><strong>Development</strong></td> 
     <td>Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
         <ul>
-        <li>You should know what the concept of a prototype is, particularly if you took the RSMP course, but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
+        <li>You should know what the concept of a prototype is but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
         <li>As a result, a prototype can take on many forms. Essentially, it is your project or aspects of your project in an unfinished form.</li>
         <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
         </ul>
@@ -121,13 +121,13 @@
 </tr>
 <tr>  
 <tr>
-    <td><strong>Risks</strong></td>   
+    <td><strong>Risks &amp; Challenges</strong></td>   
     <td>Read <i>Do The Work</i> and answer the following questions.
     <ul>
     <li>What’s missing from your project? (p. 48)</li>
     </ul>
 
-    What are your risks of failure? (lack of tech, time, knowledge, money, etc.) and how will you overcome them?</td>
+    What are your risks of failure? (lack of tech, time, knowledge, money, etc.) and how will you overcome them? What are the holes or gaps in your project?</td>
 </tr>
 </table>
 
