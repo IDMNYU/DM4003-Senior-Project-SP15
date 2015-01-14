@@ -138,9 +138,9 @@
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td><strong>Class Critique: Final Resume and Cover Letter Due<br>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a><br><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></strong></td> 
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
