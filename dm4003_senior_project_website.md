@@ -8,9 +8,9 @@
 
 ---
 
-## PROJECT BLOG
+## PROJECT DOCUMENTATION WEBSITE
 
-You should have a **dedicated** blog for Senior Project in Digital Media in wordpress on http://sites.bxmc.poly.edu
+You should have a **dedicated** website for the documentation of your Senior Project progress in Digital Media in wordpress on http://sites.bxmc.poly.edu
 * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web server space
 * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 
