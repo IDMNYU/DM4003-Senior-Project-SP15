@@ -46,7 +46,7 @@
     (What are your project's conceptual underpinnings?)</td>
 </tr>
 <tr>
-    <td><strong>Your motivation, drive, and/or purpose</strong></td> 
+    <td><strong>Motivation</strong></td> 
     <td>Read <i>Do The Work</i> and answer the following questions in context of your project.
     <ul>
     <li>What does she (you) love? (p. 24)</li>
