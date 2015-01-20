@@ -35,10 +35,10 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li>
-    <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li>
-    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation</strong> (post to basecamp as a message with your name as a category)</li>
-    <li><strong>Draft a cover letter</strong>. Bring at least 4 printed copies to the 1st day of class.</li>
+    <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li> (also post pdf as an attachment to a message on basecamp with your name as a category. you can have attachments with messages.)
+    <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li> (post to basecamp as a message with your name as a category)
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
+    <li><strong>Draft a cover letter</strong>. Bring at least 4 printed copies to the 1st day of class.</li> (also post pdf as an attachment to a message on basecamp with your name as a category. you can have attachments with messages.)
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>

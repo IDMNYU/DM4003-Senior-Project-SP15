@@ -15,6 +15,10 @@ You should have a **dedicated**, project website to document the **weekly** prog
 their Project Website.
 * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web server space
 * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
+* IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
+* Create a *thesis* folder
+* Install wordpress in this folder
+* Make and appointment with Elton to connect a database to this particular wordpress installation
 
 Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s project website as a guide. Why?  
 * You can clearly read what his project was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
@@ -38,7 +42,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 
 **What your project website should NOT contain?**
 * How you are feeling about your process or project? This is different than evaluating or reflecting about what is working and what is not working. In other words, don’t rant, complain, blame, self-deprecate or make excuses on your project website. 
-* This is a public representation of you as an artist, designer and/or entrepreneur. You want it to be as professional as possible. You want prospective employers, gallery owners, venture capitalists, and/or possible collaborators to take you seriously.
+* This is a public representation of you as an artist, designer, creative technologist and/or entrepreneur. You want it to be as professional as possible. You want prospective employers, gallery owners, venture capitalists, and/or possible collaborators to take you seriously.
 * Any content that is NOT related to your project explicitly.
 
 

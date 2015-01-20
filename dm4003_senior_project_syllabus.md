@@ -23,9 +23,9 @@
 
 ## Welcome to Senior Project In Digital Media!
 
-**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. Senior Project in Digital Media mirrors the creative process that professional artists, designers, and entrepreneurs must practice throughout their entire careers. 
+**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. Senior Project in Digital Media mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. 
 
-The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, and/or entrepreneurs.
+The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs.
 
 As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
@@ -80,10 +80,12 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### COURSE STRUCTURE
 
-Students should be aware that they are expected to be on time for all meetings, critiques, and presentations. 
+Students are expected to be on time for all meetings, critiques, and presentations. 
 
 This class will consist of 
 * **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
+Individual meetings are not optional. They are important and useful. Sometimes
+they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
 * **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
@@ -97,7 +99,7 @@ It is the responsibility of each senior to invite an outside critic to at least 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least one classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
-* Be Present and Engaged
+* Be Present and Engaged (i.e. Close your laptops and stow your cellphones)
 * Give Feedback to your classmates
 * Do NOT take feedback personally.
 
@@ -188,8 +190,7 @@ The performance & attendance of the student has not met course requirements. The
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. When your classmates are presenting, please close your laptops.
-
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops.**
 
 ### ACADEMIC HONESTY
 
@@ -230,7 +231,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
-* [Do The Work] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
+* [Do The Work!] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
 
