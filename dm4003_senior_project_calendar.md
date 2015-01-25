@@ -50,7 +50,7 @@
         <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why?</li>
             <ul>
             <li>Assignments</li>
-            <li>Teacher</li>
+            <li>Instructor</li>
             <li>Classmates</li>
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
