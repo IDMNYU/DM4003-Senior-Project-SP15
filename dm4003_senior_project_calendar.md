@@ -46,6 +46,15 @@
     <td>Wed, Jan 28</td>
     <td>
         <ul>
+        <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
+        <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why?</li>
+            <ul>
+            <li>Assignments</li>
+            <li>Teacher</li>
+            <li>Classmates</li>
+            <li>Classroom Environment</li>
+            <li>Resources (Software, Books, etc.)</li>
+            </ul>
         <li>Syllabus Q&amp;A</li>
         <li>Confirm Project Critique Schedule</li>
         <li>Create Individual Meeting Order</li>

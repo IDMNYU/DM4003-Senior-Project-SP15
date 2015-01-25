@@ -19,10 +19,10 @@ Here’s a how to: https://www.dropbox.com/help/167 (There is also a video expla
  
 Create a dropbox link with the following contents:
 * **deliverables for the senior project catalog**
-  * Title of your project
+  * title of your project
   * URL to your project website
-  * *at least* 3, Hi-res images of your project (RAW preferably or 300dpi)
-  * Abstract
+  * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
+  * abstract
 * **all related project files** (e.g. video, HTML files, audio files, etc ) for
   * alpha
   * beta

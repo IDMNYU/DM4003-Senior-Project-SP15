@@ -23,7 +23,7 @@
 
 ## Welcome to Senior Project In Digital Media!
 
-**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. Senior Project in Digital Media mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. 
+**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
 
 The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs.
 
@@ -54,15 +54,15 @@ Senior Project in Digital Media is about demonstrating the maturity, responsibil
 
 ### PROGRAM GOALS
 
-The following IDM program goals are reinforced within this course. At a graduate level, students will:
+The following IDM program goals are reinforced within this course. Students will:
 
-* 1 – develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
+* develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
   * Students will develop a research and studio practice through inquiry and iteration.
-* 2 – develop **technical skills** to realize their ideas.
+* develop **technical skills** to realize their ideas.
   * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
   * Students will be able to integrate/interface different technologies within a technological ecosystem.
-* 3 – develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
-* 4 – gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
+* develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
+* gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
 
 ### COURSE GOALS
@@ -190,11 +190,15 @@ The performance & attendance of the student has not met course requirements. The
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops.**
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
+
 
 ### ACADEMIC HONESTY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
+
+You MUST have complete rights of use to any and all materials which appear in your thesis
+project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your thesis project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.     
 
 
 ### ACADEMIC ACCOMMODATIONS
@@ -212,6 +216,13 @@ Any printed assignments should always contain the following info, be saved as a 
 * Duff
 * Title of project or assignment
 
+**File Naming**
+All PDFs should be labeled as follows:
+* Firstname_Lastname_assignmentName_date.pdf (de_angela_duff_resume_2015jan03.pdf)
+
+All REVISED DOCS should be labeled as follows:
+* Firstname_Lastname_assignmentName#_date.pdf (de_angela_duff_resume2_2015feb27.pdf)
+
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
@@ -223,9 +234,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Github Account: (http://github.com/join)
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
-* Web Server Space
-  * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space
-  * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
+* [Web Server Space] (dm4003_senior_project_website.md)
 
 
 ### REQUIRED BOOKS
@@ -236,8 +245,11 @@ The following books are available for purchase in the NYU library. I highly sugg
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
 
 
-### REQUIRED WEBSITE
+### REQUIRED TOOLS
+* Analog or Digital Calendar
 * [Personal Kanban] (http://www.personalkanban.com)
+* [RescueTime] (http://rescuetime.com)
+* [Zapier] (http://zapier.com) (optional)
 
 
 ### RECOMMENDED RESOURCES
@@ -265,19 +277,19 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 ### RECOMMENDED BOOKS
 
-* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
-
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
-
-* [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
-
-* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
+* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss 
 
 * [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
 * [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
-* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss 
+* [Personal Kanban: Mapping Work | Navigating Life] (http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
+
+* [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
+
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos] (http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
+
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
 
 
 ### [PROJECT PLAN](dm4003_senior_project_plan.md)

@@ -12,7 +12,7 @@
 
 <strong>Please note you can do senior team projects.</strong>
 * Please post **as a PDF** to basecamp as a Message with your name as a category
-* Please name your file as yourname_project_plan.pdf
+* Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2015jan13.pdf)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 
 <table>
