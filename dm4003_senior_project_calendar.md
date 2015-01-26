@@ -59,6 +59,7 @@
         <li>Confirm Project Critique Schedule</li>
         <li>Create Individual Meeting Order</li>
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
+        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>IN-CLASS Workshop: Resume and Cover Letters</li>
