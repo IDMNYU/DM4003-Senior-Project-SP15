@@ -62,7 +62,11 @@
         <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
-        <li>Discuss the <a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> technique for brainstorming.</li>
+        <li>Discuss brainstorming techniques for coming up with project idea:
+            <ul>
+            <li>Mind Map (Example under files on Basecamp)</li>
+            <li><a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> Technique</li>
+            </ul>
         <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
         <li>IN-CLASS Workshop: Resume and Cover Letters</li>
         </ul>
