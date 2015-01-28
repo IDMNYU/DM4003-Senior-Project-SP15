@@ -63,6 +63,7 @@
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>Discuss the <a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> technique for brainstorming.</li>
+        <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
         <li>IN-CLASS Workshop: Resume and Cover Letters</li>
         </ul>
 </td>  
