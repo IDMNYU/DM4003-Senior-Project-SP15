@@ -231,7 +231,6 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
-* Github Account: (http://github.com/join)
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
 * [Web Server Space] (dm4003_senior_project_website.md)

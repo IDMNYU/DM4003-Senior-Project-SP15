@@ -62,17 +62,19 @@
         <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
+        <li>Discuss the <a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> technique for brainstorming.</li>
         <li>IN-CLASS Workshop: Resume and Cover Letters</li>
         </ul>
 </td>  
 </tr>
 <tr>
     <td>Wed, Feb 04</td>
-    <td><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
+    <td><li>Install [RescueTime] (http://rescuetime.com) and populate categories and productivity values</li>
+    <strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
-    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
+    <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
     Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_website.md">dedicated project website</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
 </tr>

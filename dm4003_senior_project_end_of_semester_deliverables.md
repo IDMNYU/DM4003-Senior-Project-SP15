@@ -23,13 +23,7 @@ Create a dropbox link with the following contents:
   * URL to your project website
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * abstract
-* **all related project files** (e.g. video, HTML files, audio files, etc ) for
-  * alpha
-  * beta
-  * gold
-
-Here are two examples of some very good, project websites:
-* =
+* **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
 
 ### PORTFOLIO WEBSITE
