@@ -27,7 +27,7 @@ Create a dropbox link with the following contents:
 
 
 ### PORTFOLIO WEBSITE
-*NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Blog</a>.*
+*NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
@@ -63,7 +63,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 **Of The Course**
 * Feedback on the syllabus 
 * Feedback on the course content (required books, screenings, etc.)
-* Feedback on the course structure (weekly, individual meetings and group critiques, etc.)
+* Feedback on the course structure (weekly, individual meetings and project critiques, etc.)
 * What change(s) would you make to this class and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
 Feedback re: required books
@@ -72,6 +72,9 @@ Feedback re: required books
 
 
 #### LETTER TO NEXT COHORT   
+
+* Please name your file as yourname_lettertonextcohort_seniorproject.pdf
+* Email your letter *as a pdf* to deangela.duff@nyu.edu 
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
 

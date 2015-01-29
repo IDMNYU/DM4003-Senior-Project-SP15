@@ -8,8 +8,6 @@
 
 ---
 
-# DRAFT (NOT FINAL)
-
 ## CALENDAR
 
 
@@ -109,7 +107,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>4:30pm Project Critiques: ?<br>4:50pm Project Critique: ?</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critiques: ?<br>4:50pm Project Critique: ?</strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
