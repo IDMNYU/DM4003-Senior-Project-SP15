@@ -15,7 +15,6 @@ You should have a **dedicated**, project website to document the **weekly** prog
 their Project Website.
 * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web server space
 * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
-* IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 * Create a *thesis* folder
 * Install wordpress in this folder
 * Make and appointment with Elton to connect a database to this particular wordpress installation

@@ -89,10 +89,10 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 * **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
-     * 10 to 15 minutes of presentation and 
-     * 10 to 15 minutes of critique 
+     * 10 minutes of presentation and 
+     * 10 minutes of critique 
      (or a combination thereof)
-     for 30 minutes total. 
+     for 20 minutes total. 
 
 It is the responsibility of each senior to invite an outside critic to at least one of their project critiques. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, <strong>documented</strong> meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
 
