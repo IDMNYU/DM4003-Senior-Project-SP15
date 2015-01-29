@@ -155,15 +155,14 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% Senior Project – Gold Version 
+* 20% Senior Project – Gold Version 
 * 15% [Deliverables for Senior Project Catalog / Supporting Files] (dm4003_senior_project_end_of_semester_deliverables.md)
-* 10% [Portfolio Website] (dm4003_senior_project_end_of_semester_deliverables.md)
 * 10% Weekly Progress: personal kanban (project milestones), calendar & [project website] (dm4003_senior_project_website.md)
-* 10% Resume, Cover Letter, and LinkedIn Profile
 * 10% Project Critique Presentations
+* 10% [End of Semester Public Presentation] (dm4003_senior_project_end_of_semester_deliverables.md)
+* 10% [Portfolio Website] (dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
 * 05% Career Counseling Appt. through NYU's Waserman Center
 * 05% Outside Critique
-* 05% [End of Semester Public Presentation] (dm4003_senior_project_end_of_semester_deliverables.md)
 * 05% Midterm Self Assessment Rubric
 * 05% [End of Semester Assessment] (dm4003_senior_project_end_of_semester_deliverables.md)
 * 05% [Letter to Next Cohort] (dm4003_senior_project_end_of_semester_deliverables.md)

@@ -47,7 +47,7 @@
     <td>
         <ul>
         <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
-        <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why?</li>
+        <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why? One per post-it.</li>
             <ul>
             <li>Assignments</li>
             <li>Instructor</li>
@@ -56,32 +56,39 @@
             <li>Resources (Software, Books, etc.)</li>
             </ul>
         <li>Syllabus Q&amp;A</li>
-        <li>Confirm Project Critique Schedule</li>
-        <li>Create Individual Meeting Order</li>
-        <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
-        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
-        <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
-        <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
+        
+        
+        
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
             <li>Mind Map (Example under files on Basecamp)</li>
             <li><a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> Technique</li>
             </ul>
-        <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
-        <li>IN-CLASS Workshop: Resume and Cover Letters</li>
-        </ul>
-</td>  
-</tr>
-<tr>
-    <td>Wed, Feb 04</td>
-    <td><li>Install [RescueTime] (http://rescuetime.com) and populate categories and productivity values</li>
-    <strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)<br><br>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
+        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
-    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_senior_project_website.md">dedicated project website</a> on http://sites.bxmc.poly.edu, before the next class at the latest</td> 
+    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+        <li>IN-CLASS Workshop: Resume and Cover Letters</li>
+        
+        <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
+        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
+        <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li></ul>
+</td>  
+</tr>
+<tr>
+    <td>Wed, Feb 04</td>
+    <td>
+    <ul>
+    <li>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values</li>
+    <li>Setup <a href="dm4003_senior_project_website.md">dedicated project website</a></li>
+    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)</li>
+    <li>Confirm Project Critique Schedule</li>
+    <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
+    </ul>
+    </td> 
 </tr>
 <tr>
     <td>Mon, Feb 09</td>
@@ -89,13 +96,19 @@
 </tr>
 <tr>
     <td>Wed, Feb 11</td>
-    <td><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)<br><br>
-    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <td>
+    <ul>
+    <li>Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
     <ul>
     <li>2 Middle p. 32-52</li>
     <li>The Belly of the Beast p. 53-70</li>
     </ul>
-    <a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</li>
+    <li><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></li>
+    <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
+    <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
+    <li>Group A: Individual Meetings</li>
+    </ul></td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -103,15 +116,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critiques: Collin<br>Project Critique: Lyndsey</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critiques: Collin<br>Project Critique: Lyndsey</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
@@ -129,12 +142,12 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br>
-    IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Individual Meetings /Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td>
+    IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br><strong>Midterm Self Assessment Rubric Due</strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsey</strong><br><br>DRAFT of Process PDF DUE<br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critique: Collin<br>Project Critique: Lyndsey</strong><br><br>DRAFT of Process PDF DUE<br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -143,7 +156,7 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critique: Isaac<br>Project Critique: Miranda</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
@@ -151,11 +164,11 @@
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    <td><strong>Project Critique: Kirsten<br>Project Critique: Nicholas<br>Project Critique: Saba</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
+    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
