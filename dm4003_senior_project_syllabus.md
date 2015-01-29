@@ -299,7 +299,7 @@ The following books are available for purchase in the NYU library. I highly sugg
 ### [PROJECT PLAN](dm4003_senior_project_plan.md)
 See Appendix
 
-### [PROJECT BLOG](dm4003_senior_project_blog.md)
+### [PROJECT WEBSITE](dm4003_senior_project_website.md)
 See Appendix
 
 ### [END OF SEMESTER DELIVERABLES](dm4003_senior_project_end_of_semester_deliverables.md)
