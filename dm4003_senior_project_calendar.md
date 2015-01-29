@@ -93,13 +93,13 @@
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
     
-    <li><strong>Project Critique: ?<br>Project Critique: ?</strong></li>
+    <li><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong></li>
     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></strong></li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
-    <li>Group A: Individual Meetings</li>
+    <li><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></li>
     </ul></td> 
 </tr>
 <tr>
@@ -108,15 +108,15 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critiques: ?<br>Project Critique: ?</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
+    <td><strong>Project Critiques: ?<br>Project Critique: ?</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?<br>Project Critique: ?</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?</strong><br><br>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
@@ -134,11 +134,11 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>DRAFT of Process PDF DUE<br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>DRAFT of Process PDF DUE<br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -150,12 +150,12 @@
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 
 <tr>
     <td>Wed, Apr 22</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?<br>Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group B: Individual Meetings</td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
