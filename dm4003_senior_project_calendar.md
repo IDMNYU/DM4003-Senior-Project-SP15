@@ -24,11 +24,10 @@
     <td>
     <ul>
     <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    
     <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li> (also post a pdf (firstname_lastname_resume.pdf) as an attachment to a message on basecamp with your name as a category.)
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li> (post to basecamp as a message with your name as a category)
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
-    <li><strong>Draft a cover letter</strong>. Bring at least 4 printed copies to the 1st day of class.</li> (also post pdf (firstname_lastname_cover_letter.pdf) as an attachment to a message on basecamp with your name as a category.)
+    <li><strong>Draft a cover letter</strong>. Bring at least 4 printed copies to the 1st day of class.</li> (also post pdf (firstname_lastname_cover_letter.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>
@@ -45,10 +44,7 @@
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
             </ul>
-        <li>Syllabus Q&amp;A</li>
-        
-        
-        
+        <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
             <li>Mind Map (Example under files on Basecamp)</li>
@@ -60,9 +56,6 @@
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
-        <li>IN-CLASS Workshop: Resume and Cover Letters</li>
-        
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
         <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li></ul>
@@ -72,9 +65,9 @@
     <td>Wed, Feb 04</td>
     <td>
     <ul>
-    <li>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values</li>
-    <li>Setup <a href="dm4003_senior_project_website.md">dedicated project website</a></li>
-    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (Except for Design, Development, and Project Versions)</li>
+    <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong>and populate categories and productivity values</li>
+    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
+    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (EXCEPT FOR Design, Development, and Project Versions)</li>
     <li>Confirm Project Critique Schedule</li>
     <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
     </ul>
@@ -99,14 +92,11 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    <li>Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
-    <ul>
-    <li>2 Middle p. 32-52</li>
-    <li>The Belly of the Beast p. 53-70</li>
-    </ul>
+    
     <li><strong>Project Critique: ?<br>Project Critique: ?</strong></li>
     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    <li><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></li>
+    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></strong></li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     <li>Group A: Individual Meetings</li>
@@ -134,7 +124,7 @@
     Class Critique: Senior Project – Alpha Version<br>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
-    <li>2 Middle p. 71-85</li>
+    <li>2 Middle</li>
     </ul>
     Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
 </tr>
@@ -144,7 +134,7 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>IN CLASS WORKSHOP: Share your Resume, Cover Letter, and Process PDF with a classmate for feedback<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
+    <td><strong>Project Critique: ?<br>Project Critique: ?</strong><br><br>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br>Group A: Individual Meetings</td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
@@ -169,24 +159,25 @@
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td>Make sure you have scheduled a career coaching appointment with the wasserman center before this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
+    <td>Make sure you have scheduled a career coaching appointment with the Wasserman Center BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, May 06</td>
-    <td><strong>Class Critique: Senior Project – Gold Version<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
-    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
+    <td>
     Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
     </ul>
-     Read Show Your Work!</strong> by Austin Kleon, take notes, and be prepared to discuss
+    <strong>Read Show Your Work!</strong> by Austin Kleon, take notes, and be prepared to discuss
     <ul>
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>
     </ul>
+    <strong>Class Critique: Senior Project – Gold Version<br>
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
+    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 
 </tr>
