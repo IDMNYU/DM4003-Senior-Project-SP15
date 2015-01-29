@@ -24,17 +24,7 @@
     <td>
     <ul>
     <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), take notes, and be prepared to discuss</li>
-        <ul>
-        <li>About this Book p.1-2</li>
-        <li>Orientation: Enemies and Allies p. 3-16</li>
-        <li>1 Beginning p. 17-31</li>
-        </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), take notes, and be prepared to discuss</li>
-        <ul>
-        <li>2. Think Process, Not Product, p. 30-43</li>
-        <li>3. Share Something Small Every Day, p. 44-69</li>
-        </ul>
+    
     <li><strong>Draft a resume</strong> Bring at least 4 printed copies to the 1st day of class.</li> (also post a pdf (firstname_lastname_resume.pdf) as an attachment to a message on basecamp with your name as a category.)
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible</li> (post to basecamp as a message with your name as a category)
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
@@ -98,6 +88,17 @@
     <td>Wed, Feb 11</td>
     <td>
     <ul>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), take notes, and be prepared to discuss</li>
+        <ul>
+        <li>About this Book p.1-2</li>
+        <li>Orientation: Enemies and Allies p. 3-16</li>
+        <li>1 Beginning p. 17-31</li>
+        </ul>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), take notes, and be prepared to discuss</li>
+        <ul>
+        <li>2. Think Process, Not Product, p. 30-43</li>
+        <li>3. Share Something Small Every Day, p. 44-69</li>
+        </ul>
     <li>Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
     <ul>
     <li>2 Middle p. 32-52</li>
