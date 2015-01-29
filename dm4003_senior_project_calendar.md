@@ -49,6 +49,7 @@
             <ul>
             <li>Mind Map (Example under files on Basecamp)</li>
             <li><a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> Technique</li>
+            <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
@@ -65,7 +66,7 @@
     <td>Wed, Feb 04</td>
     <td>
     <ul>
-    <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong>and populate categories and productivity values</li>
+    <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
     <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (EXCEPT FOR Design, Development, and Project Versions)</li>
     <li>Confirm Project Critique Schedule</li>
@@ -108,7 +109,7 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>Project Critiques: ?<br>Project Critique: ?</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critiques: ?<br>4:50pm Project Critique: ?</strong><br><br><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
@@ -166,7 +167,7 @@
 <tr>
     <td>Wed, May 06</td>
     <td>
-    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <strong>Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
     </ul>
