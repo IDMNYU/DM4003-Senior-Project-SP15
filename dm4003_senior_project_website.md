@@ -29,6 +29,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 * *Weekly Project Progress*
   * at least, 1 post per week DUE 10am on Wednesdays. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
+  * pdfs of any presentations (annotated)
   * Milestones / Tasks that have been completed
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
