@@ -66,7 +66,7 @@
     <ul>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
-    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your presentation (EXCEPT FOR Design, Development, and Project Versions)</li>
+    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
     <li>Confirm Project Critique Schedule</li>
     <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
     </ul>
