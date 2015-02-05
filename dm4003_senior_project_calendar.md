@@ -99,7 +99,7 @@ OR</li>
 <li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
 </ul>
       <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></strong></li>
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
@@ -114,7 +114,7 @@ OR</li>
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>4:30pm Project Critiques: Kirsten<br>4:50pm Project Critique: Saba<br>5:10pm Project Critique: ?</strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critiques: Kirsten<br>4:50pm Project Critique: Saba<br>5:10pm Project Critique: ?</strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
@@ -128,7 +128,7 @@ OR</li>
     <td>Wed, Mar 11</td>
     <td><strong>Class Critique: Portfolio Website Draft Due<br>
     Class Critique: Senior Project – Alpha Version<br>
-    Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
     <ul>
     <li>2 Middle</li>
     </ul>
@@ -172,11 +172,11 @@ OR</li>
 <tr>
     <td>Wed, May 06</td>
     <td>
-    <strong>Read Do The Work!</strong> by Steven Pressfield, take notes, and be prepared to discuss
+    <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
     <ul>
     <li>3 end p.87-98</li>
     </ul>
-    <strong>Read Show Your Work!</strong> by Austin Kleon, take notes, and be prepared to discuss
+    <strong>Read Show Your Work!</strong> by Austin Kleon, write a reading response on your project website, and be prepared to discuss
     <ul>
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>

@@ -18,6 +18,7 @@ Card sorting is about creating associations between information. Please complete
 * Use a dark pen or sharpie to write
 * Get four different colors of post-it notes or index cards
 * Take pictures of each step along the way. Make sure the photos are lit well and have good contrast.
+* Upload your photos to your <a href="dm4003_senior_project_website.md" target="_blank">project website</a>
 
 **Step 1: PROJECT CARDS**
 
@@ -33,7 +34,15 @@ Choose a third color of card and create three enabler cards for each project. Th
 
 **Step 4 IDEA CARDS**
 
-Now is the fun part. Take a look at all of your cards. Lay all the projects and their cards out on the table and start to pull descriptor and enabler cards that interest you (choosing from all the projects). Start to make associations between the cards to form ideas. If you don’t see what you.
+Now is the fun part. Take a look at all of your cards. Lay all the projects and their cards out on the table and start to pull descriptor and enabler cards that interest you (choosing from all the projects). Start to make associations between the cards to form ideas. If you don’t see what you want on an existing card, add more descriptor and enabler cards in a miscellaneous group that is not attached to an existing project.
+
+Take the cards and play with them so they come together to form ideas for a project. Once you have an idea, write it on a new idea card. Do this multiple times and take photos of your idea cards. Try to play with the idea of contrast, and pairing complementary or opposite things together. Think also about what interests you in the existing projects, and why those projects are interesting. Look closely at the relationships between the elements of your newly created ideas.
+
+Once you come up with a project idea, try to deconstruct it and organize different groups of descriptor and enabler cards that would be relevant to the same idea. For example, if your project idea is to provide the experience of weightlessness, think of different ways to make that happen – it could be a 3-D goggles project, or a physical experience, or a sound installation. Try to come up with different sets of cards that describe the same idea, or describe a different realization of the same idea.
+
+**Step 5: IDEA LIST**
+
+Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your <a href="dm4003_senior_project_website.md" target="_blank">project website</a>. 
 
 
 
