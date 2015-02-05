@@ -67,7 +67,7 @@
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
     <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-    <li>Confirm Project Critique Schedule</li>
+    
     <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
     </ul>
     </td> 
@@ -80,28 +80,30 @@
     <td>Wed, Feb 11</td>
     <td>
     <ul>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), take notes, and be prepared to discuss</li>
+    <li><strong>Post your project website URL</strong> on basecamp as a comment to the message I will post.</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), write a reading response on your project website, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
         <li>1 Beginning p. 17-31</li>
         </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), take notes, and be prepared to discuss</li>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), write a reading response on your project website, and be prepared to discuss</li>
         <ul>
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    <li>Break down everything you need to do for your project into actionable tasks using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.).</li>
+    <li><strong>Break down</strong> everything you need to do for <strong>your project into actionable tasks</strong> using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.).</li>
 <ul>
 <li>I recommend using post-its so you can move them around
 OR</li>
 <li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
 </ul>
       <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></strong></li>
+    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
+    <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
     <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     <li><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></li>
     </ul></td> 
@@ -112,7 +114,7 @@ OR</li>
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>4:30pm Project Critiques: Kirsten<br>4:50pm Project Critique: Saba<br>5:10pm Project Critique: ?<br></strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critiques: Kirsten<br>4:50pm Project Critique: Saba<br>5:10pm Project Critique: ?</strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
