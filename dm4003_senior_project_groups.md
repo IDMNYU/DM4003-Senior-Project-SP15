@@ -19,17 +19,18 @@ Group A and Group B will alternate our individual meetings every other week. Con
 <tr>
     <td>4:30pm Project Critique<br>
     4:50pm Project Critique<br>
-    5:10pm Individual Meeting: ?<br>
-    5:30pm Individual Meeting: ?<br>
-    5:50pm Individual Meeting: ?<br>
-    6:10pm Individual Meeting: ?
+    5:10pm Individual Meeting: Nick<br>
+    5:30pm Individual Meeting: Kirsten<br>
+    5:50pm Individual Meeting: Lyndsey<br>
+    6:10pm Individual Meeting: Miranda<br>
+    6:30pm Individual Meeting: Saba<br>
     </td>
     <td>4:30 Project Critique<br>
     4:50pm Project Critique<br>
-    5:10pm Individual Meeting: ?<br>
-    5:30pm Individual Meeting: ?<br>
-    5:50pm Individual Meeting: ?<br>
-    6:10pm Individual Meeting: ?</td>
+    5:10pm Individual Meeting: Nicholas<br>
+    5:30pm Individual Meeting: Collin<br>
+    5:50pm Individual Meeting: Isaac<br>
+    6:10pm Individual Meeting: Anthony</td>
 </tr>
 </table>
 
