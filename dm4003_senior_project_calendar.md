@@ -57,7 +57,7 @@
     </ul>
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
         <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
-        <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li></ul>
+        </ul>
 </td>  
 </tr>
 <tr>
@@ -91,12 +91,17 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    
-    <li><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong></li>
-    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
+    <li>Break down everything you need to do for your project into actionable tasks using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.).</li>
+<ul>
+<li>I recommend using post-its so you can move them around
+OR</li>
+<li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
+</ul>
+      <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft Due</a></strong></li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
+    <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
     <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
     <li><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></li>
     </ul></td> 
@@ -107,11 +112,11 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><strong>4:30pm Project Critiques: ?<br>4:50pm Project Critique: ?</strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critiques: Kirsten<br>4:50pm Project Critique: Saba<br>5:10pm Project Critique: ?<br></strong><br><br><strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft</a></strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
@@ -133,7 +138,7 @@
 </tr>
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critique: Kirsten<br>4:50pm Project Critique: Saba</strong><br><br>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
