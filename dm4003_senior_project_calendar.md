@@ -118,7 +118,7 @@ OR</li>
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?<br>5:40pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
