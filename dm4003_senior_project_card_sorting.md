@@ -32,7 +32,7 @@ Choose a second color of card and create a set of descriptor cards for each proj
 
 Choose a third color of card and create three enabler cards for each project. The enabler cards are underlying traits that enable the project to exist -- the technology, software, circumstance, environment, or tools that are needed for the project. For a painting, enabler cards would be paint, brushes, easel, subject, canvas, or light. (It is OK to use more than the suggested amount of cards.)
 
-**Step 4 IDEA CARDS**
+**Step 4: IDEA CARDS**
 
 Now is the fun part. Take a look at all of your cards. Lay all the projects and their cards out on the table and start to pull descriptor and enabler cards that interest you (choosing from all the projects). Start to make associations between the cards to form ideas. If you don’t see what you want on an existing card, add more descriptor and enabler cards in a miscellaneous group that is not attached to an existing project.
 

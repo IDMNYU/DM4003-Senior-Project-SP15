@@ -45,7 +45,7 @@
         <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
-            <li>Mind Map (Example under files on Basecamp)</li>
+            <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> (Example under files on Basecamp)</li>
             <li><a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
@@ -156,7 +156,7 @@ OR</li>
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
+    <td><strong>4:30pm Project Critique: ?<br>4:50pm Project Critique: ?<br>5:10pm Project Critique: ?</strong><br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 
 <tr>

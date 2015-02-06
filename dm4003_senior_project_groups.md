@@ -29,8 +29,9 @@ Group A and Group B will alternate our individual meetings every other week. Con
     4:50pm Project Critique</strong><br>
     5:10pm <strong>Nicholas</strong><br>
     5:30pm <strong>Collin</strong><br>
-    5:50pm <strong>Isaac</strong><br>
-    6:10pm <strong>Anthony</strong></td>
+    5:50pm <strong>Anthony</strong><br>
+    6:10pm <strong>Isaac</strong>
+    6:30pm <strong>Sheng</strong></td>
 </tr>
 </table>
 
