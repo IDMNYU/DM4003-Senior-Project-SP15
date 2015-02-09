@@ -46,7 +46,7 @@
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
             <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> (Example under files on Basecamp)</li>
-            <li><a href="https://litemind.com/scamper/" target="_blank">SCAMPER</a> Technique</li>
+            <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
