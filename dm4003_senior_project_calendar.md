@@ -129,17 +129,14 @@ OR</li>
     <ul>
     <li>2 Middle</li>
     </ul>
-    Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
 
 <tr>
     <td>Wed, Mar 18</td>
     <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
 </tr>
-<tr>
-    <td>Wed, Mar 25</td>
-    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
-</tr>
+
 <tr>
     <td>Wed, Mar 25</td>
     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a> Senior Project – Alpha Version<br>
@@ -162,7 +159,7 @@ OR</li>
 
 <tr>
     <td>Wed, Apr 15</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
