@@ -105,8 +105,7 @@ OR</li>
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
     <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
     <li>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></li>
-    <li><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></li>
-    </ul></td> 
+      </ul></td> 
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -126,13 +125,13 @@ OR</li>
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version<br>
-    Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
+    <td>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
     <ul>
     <li>2 Middle</li>
     </ul>
-    Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+    Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a>Individual Meetings / Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
+
 <tr>
     <td>Wed, Mar 18</td>
     <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
@@ -142,25 +141,32 @@ OR</li>
     <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></td> 
 </tr>
 <tr>
+    <td>Wed, Mar 25</td>
+    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a> Senior Project – Alpha Version<br>
+    Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
+</tr>
+<tr>
     <td>Wed, Apr 1</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></td> 
+    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a> Senior Project – Alpha Version<br>
+    </td> 
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
+
 <tr>
     <td>Wed, Apr 8</td>
-    <td><strong>Class Critique: Senior Project – Beta Version</strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
-</tr>
-<tr>
-    <td>Wed, Apr 15</td>
-    <td>IN CLASS WORKSHOP: Share your Process PDF with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
 </tr>
 
 <tr>
+    <td>Wed, Apr 15</td>
+    <td>IN CLASS WORKSHOP: Share your Process PDF with classmates for feedback. Bring at least 4 printed copies to class.<br><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+</tr>
+<tr>
     <td>Wed, Apr 22</td>
-    <td>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td><strong>Class Critique: Senior Project – Beta Version</strong><br>Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
