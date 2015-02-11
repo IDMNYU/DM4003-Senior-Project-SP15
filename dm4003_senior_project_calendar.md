@@ -139,12 +139,12 @@ OR</li>
 
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a> Senior Project – Alpha Version<br>
+    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> Senior Project – Alpha Version<br>
     Personal Kanban / <a href="dm4003_senior_project_website.md">Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a> Senior Project – Alpha Version<br>
+    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Alpha Version<br>
     </td> 
 </tr>
 <tr>
