@@ -12,12 +12,6 @@
 
 Group A and Group B will alternate our individual meetings every other week. Consult the <a href="dm4003_senior_project_calendar.md">calendar</a> for dates.
 
-4:30pm Class<br>
-4:50pm Project Critique<br>
-5:10pm Project Critique<br>
-5:30pm Project Critique or Individual Meeting<br>
-5:50pm Project Critique or Individual Meeting<br>
-6:10pm Project Critique or Individual Meeting<br>
 
 <table>
 <tr>
@@ -39,6 +33,14 @@ Group A and Group B will alternate our individual meetings every other week. Con
     6:10pm <strong>Sheng</strong></td>
 </tr>
 </table>
+
+4:30pm Class<br>
+4:50pm Project Critique<br>
+5:10pm Project Critique<br>
+5:30pm Project Critique or Individual Meeting<br>
+5:50pm Project Critique or Individual Meeting<br>
+6:10pm Project Critique or Individual Meeting<br>
+
 
 
 
