@@ -107,19 +107,19 @@
 </tr>
 <tr>
     <td>Wed, Feb 18</td>
-    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, Feb 25</td>
-    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, Mar 04</td>
-    <td>Individual Meetings / <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
+    <td><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
     <ul>
     <li>2 Middle</li>
     </ul>
@@ -138,7 +138,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td>
+    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td>
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -147,7 +147,7 @@
 
 <tr>
     <td>Wed, Apr 8</td>
-     <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td>
+     <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td>
 </tr>
 
 <tr>
@@ -160,7 +160,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-    <td>Make sure you have scheduled a career coaching appointment with the Wasserman Center BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
+    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
