@@ -8,6 +8,14 @@
 
 ---
 
+## PERSONAL KANBAN
+**Break down** EVERYTHING you need to do for **your project into actionable tasks** using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.).
+<ul>
+<li>I recommend using post-its so you can move them around
+OR</li>
+<li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
+</ul>
+
 ## PROJECT WEBSITE
 
 You should have a **dedicated**, project website to document the **weekly** progress of your Senior Project in wordpress on http://sites.bxmc.poly.edu
@@ -31,7 +39,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * brainstorming process for project idea
   * pdfs of any presentations (annotated)
-  * Milestones / Tasks that have been completed
+  * Milestones / Tasks that have been completed (reference Personal Kanban entries from above)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
   * If you do not do anything for the week, write **I did not work on this project this week.**
