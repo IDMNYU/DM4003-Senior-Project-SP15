@@ -34,7 +34,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 * However, most importantly, he had supporting text for these images and screenshots.
 
 **What your project website should contain?**
-* *Weekly Project Progress*
+* *Weekly Project Progress* (AKA What have you done this past week for your project?)
   * at least, 1 post per week DUE 10am on Wednesdays. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * brainstorming process for project idea
