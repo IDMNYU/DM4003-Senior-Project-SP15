@@ -18,7 +18,7 @@ OR</li>
 
 The columns I recommend for Personal Kanban (but you are not limited to) are:
 * To-Do
-* Today
+* Today (WIP limit of 3 to 5 maximum)
 * Next Week
 * Done
 
