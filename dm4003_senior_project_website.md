@@ -42,21 +42,22 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 * He had visual documentation (images and screenshots). 
 * However, most importantly, he had supporting text for these images and screenshots.
 
-## What your process website should contain?
+### What your process website should contain?
 
 **What have you done this past week for your project?**
 (which should be your done column essentially from your personal kanban)
 * *Weekly Project Progress* 
  * at least, 1 post per week DUE 10am on Wednesdays. 
-* (or even better) *Daily Project Progress* at least, 1 post per day for at least 4 or 5 days of the week.
-
+* (or even better) *Daily Project Progress* 
+ * at least, 1 post per day for at least 4 or 5 days of the week.
+* If you do not do anything for the week, write **I did NOTHING for this project this week.**
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * brainstorming process for project idea
   * pdfs of any presentations (annotated)
   * Milestones / Tasks that have been completed (reference Personal Kanban entries from above)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your project. 
-  * If you do not do anything for the week, write **I did not work on this project this week.**
+  
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?
