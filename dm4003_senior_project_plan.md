@@ -65,7 +65,7 @@
     (Who is this project for? Please note that everyone is not a valid answer. Target is the key word here.)</td>
 </tr>
 <tr>
-    <td><strong>Competitive Analysis</strong></td>
+    <td><strong>Competitive and/or Comparative Analysis</strong></td>
     <td>Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? </td>
 </tr>
 <tr>
