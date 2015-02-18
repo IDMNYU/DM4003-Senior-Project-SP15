@@ -16,14 +16,14 @@ OR</li>
 <li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
 </ul>
 
-## PROJECT WEBSITE
+## PROCESS WEBSITE
 
-You should have a **dedicated**, project website to document the **weekly** progress of your Senior Project in wordpress on http://sites.bxmc.poly.edu
+You should have a **dedicated**, process website to document the **weekly** progress of your Senior Project in wordpress on http://sites.bxmc.poly.edu
 * Students are expected to share their progress with the instructor and class using
 their Project Website.
 * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web server space
 * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
-* Create a *thesis* folder
+* Create a *thesis* folder (or another folder name of your choice)
 * Install wordpress in this folder
 * Make and appointment with Elton to connect a database to this particular wordpress installation
 
@@ -34,8 +34,12 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 * However, most importantly, he had supporting text for these images and screenshots.
 
 **What your project website should contain?**
-* *Weekly Project Progress* (AKA What have you done this past week for your project?)
-  * at least, 1 post per week DUE 10am on Wednesdays. 
+#What have you done this past week for your project? 
+(which should be your done column essentially from your personal kanban)
+* *Weekly Project Progress* 
+ * at least, 1 post per week DUE 10am on Wednesdays. 
+ (or even better) *Daily Project Progress* at least, 1 post per day for at least 4 or 5 days of the week.
+
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * brainstorming process for project idea
   * pdfs of any presentations (annotated)

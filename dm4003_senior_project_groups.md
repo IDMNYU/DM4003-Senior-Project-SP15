@@ -34,12 +34,6 @@ Group A and Group B will alternate our individual meetings every other week. Con
 </tr>
 </table>
 
-4:30pm Class<br>
-4:50pm Project Critique<br>
-5:10pm Project Critique<br>
-5:30pm Project Critique or Individual Meeting<br>
-5:50pm Project Critique or Individual Meeting<br>
-6:10pm Project Critique or Individual Meeting<br>
 
 
 
