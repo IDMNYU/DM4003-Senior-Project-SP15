@@ -16,6 +16,15 @@ OR</li>
 <li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
 </ul>
 
+The columns I recommend for Personal Kanban (but you are not limited to) are:
+* To-Do
+* Today
+* Next Week
+* Done
+
+If you use Kanbanery.com, please go to **Settings**, and under **General Settings** **enable** a *public URL* and make sure you press **Update** at the bottom of the General Settings page. Then, copy and paste your public URL to basecamp as a comment to the specific kanbanery.com message.
+
+
 ## PROCESS WEBSITE
 
 You should have a **dedicated**, process website to document the **weekly** or **daily** progress of your Senior Project in wordpress on http://sites.bxmc.poly.edu
