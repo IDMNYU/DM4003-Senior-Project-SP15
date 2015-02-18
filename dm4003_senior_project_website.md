@@ -39,7 +39,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 (which should be your done column essentially from your personal kanban)
 * *Weekly Project Progress* 
  * at least, 1 post per week DUE 10am on Wednesdays. 
- (or even better) *Daily Project Progress* at least, 1 post per day for at least 4 or 5 days of the week.
+* (or even better) *Daily Project Progress* at least, 1 post per day for at least 4 or 5 days of the week.
 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * brainstorming process for project idea
