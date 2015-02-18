@@ -34,7 +34,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 * However, most importantly, he had supporting text for these images and screenshots.
 
 ##What your process website should contain?
-#What have you done this past week for your project? 
+###What have you done this past week for your project? 
 (which should be your done column essentially from your personal kanban)
 * *Weekly Project Progress* 
  * at least, 1 post per week DUE 10am on Wednesdays. 
