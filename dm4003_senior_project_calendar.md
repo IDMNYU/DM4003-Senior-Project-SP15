@@ -133,7 +133,7 @@
 
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version</strong><br>
+    <td><strong>Midterm Self Assessment Rubric Due</strong><br>Class Critique: Senior Project – Alpha Version</strong><br>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
