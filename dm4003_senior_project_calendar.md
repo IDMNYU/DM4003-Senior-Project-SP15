@@ -133,7 +133,7 @@
 
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Midterm Self Assessment Rubric Due</strong><br>Class Critique: Senior Project – Alpha Version</strong><br>
+    <td><strong>Midterm Self Assessment Rubric Due<br>Class Critique: Senior Project – Alpha Version Due</strong><br>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
@@ -152,11 +152,11 @@
 
 <tr>
     <td>Wed, Apr 15</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> Senior Project – Beta Version</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Beta Version</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
@@ -176,7 +176,7 @@
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>
     </ul>
-    <strong>Class Critique: Senior Project – Gold Version<br>
+    <strong>Class Critique: Senior Project – Gold Version Due<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
