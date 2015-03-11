@@ -123,6 +123,7 @@
     <ul>
     <li>2 Middle, p. 70-85</li>
     </ul>
+    In-Class Exercise (Post-its) re: Do The Work!
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
 
@@ -133,7 +134,7 @@
 
 <tr>
     <td>Wed, Mar 25</td>
-    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under file if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
+    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
