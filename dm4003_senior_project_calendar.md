@@ -65,7 +65,7 @@
     <td>
     <ul>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
-    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
+    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a></strong></li>
     <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
     
     <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
@@ -80,14 +80,14 @@
     <td>Wed, Feb 11</td>
     <td>
     <ul>
-    <li><strong>Post your project website URL</strong> on basecamp as a comment to the message I will post.</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), write a reading response on your project website, and be prepared to discuss</li>
+    <li><strong>Post your process website URL</strong> on basecamp as a comment to the message I will post.</li>
+    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), write a reading response on your process website, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
         <li>1 Beginning p. 17-31</li>
         </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), write a reading response on your project website, and be prepared to discuss</li>
+    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), write a reading response on your process website, and be prepared to discuss</li>
         <ul>
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
@@ -119,9 +119,9 @@
 </tr>
 <tr>
     <td>Wed, Mar 11</td>
-    <td><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
+    <td><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
-    <li>2 Middle</li>
+    <li>2 Middle, p. 70-85</li>
     </ul>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
@@ -167,11 +167,11 @@
 <tr>
     <td>Wed, May 06</td>
     <td>
-    <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your project website, and be prepared to discuss
+    <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
-    <li>3 end p.87-98</li>
+    <li>3 end p.86-98</li>
     </ul>
-    <strong>Read Show Your Work!</strong> by Austin Kleon, write a reading response on your project website, and be prepared to discuss
+    <strong>Read Show Your Work!</strong> by Austin Kleon, write a reading response on your process website, and be prepared to discuss
     <ul>
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>
