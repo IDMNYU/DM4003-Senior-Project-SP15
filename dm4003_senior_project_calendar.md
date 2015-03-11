@@ -123,7 +123,7 @@
     <ul>
     <li>2 Middle, p. 70-85</li>
     </ul>
-    In-Class Exercise (Post-its) re: Do The Work!
+    In-Class Exercise (Post-its) re: Do The Work!<br>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
 </tr>
 
