@@ -139,14 +139,15 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong>Begin MIDTERM review individual meetings</strong></td>
+    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong>Begin MIDTERM review individual meetings.</strong></td>
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 <tr>
-    <td>MIDTERM review individual meetings to be scheduled on April 10 (Fri), 13 (Mon), 14, or 15</td>
+    <td></td>
+    <td><strong>MIDTERM review individual meetings to be scheduled on April 10 (Fri), 13 (Mon), 14, or 15</strong></td>
 </tr>
 <tr>
     <td>Wed, Apr 8</td>
