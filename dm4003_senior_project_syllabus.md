@@ -86,7 +86,7 @@ This class will consist of
 * **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Individual meetings will be held after the project critiques. <a href="dm4003_senior_project_groups.md">We will alternate weeks between group A and B.</a> Students who do the project critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
-* **Project critiques**<br>Project critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
+* **Class critiques**<br>Class critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
      * 10 minutes of presentation and 
@@ -158,7 +158,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 20% Senior Project – Gold Version 
 * 15% [Deliverables for Senior Project Catalog / Supporting Files] (dm4003_senior_project_end_of_semester_deliverables.md)
 * 10% Weekly Progress: personal kanban (project milestones), calendar & [process website] (dm4003_senior_project_website.md)
-* 10% Project Critique Presentations
+* 10% Proje Critique Presentations
 * 10% [End of Semester Public Presentation] (dm4003_senior_project_end_of_semester_deliverables.md)
 * 10% [Portfolio Website] (dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
 * 05% Career Counseling Appt. through NYU's Waserman Center
