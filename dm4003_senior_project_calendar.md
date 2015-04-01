@@ -146,8 +146,8 @@
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 <tr>
-    <td></td>
-    <td><strong>Midterm review individual meetings to be scheduled on April 10 (Fri), 13 (Mon), 14, or 15</strong></td>
+    <td>Fri, Apr 10, Mon 13, 14, or 15</td>
+    <td><strong>Midterm review individual meetings to be scheduled on </strong></td>
 </tr>
 <tr>
     <td>Wed, Apr 8</td>
@@ -156,8 +156,8 @@
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due<br>
-    Class Critique: Final LinkedIn Profile Due<br>
+    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)<br>
+    Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
 <tr>
