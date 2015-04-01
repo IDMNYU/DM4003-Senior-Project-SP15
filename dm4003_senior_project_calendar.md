@@ -156,7 +156,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 15</td>
-    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: Final Resume and Cover Letter Due<br>
+    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due<br>
     Class Critique: Final LinkedIn Profile Due<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
@@ -166,7 +166,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 
 <tr>
