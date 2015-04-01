@@ -139,7 +139,7 @@
 </tr>
 <tr>
     <td>Wed, Apr 1</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong>Begin MIDTERM review individual meetings.</strong></td>
+    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>Schedule midterm review individual meetings.<br><strong>Begin midterm review individual meetings.</strong></td>
 </tr>
 <tr>
     <td>Fri, Apr 3</td>
@@ -147,12 +147,12 @@
 </tr>
 <tr>
     <td></td>
-    <td><strong>MIDTERM review individual meetings to be scheduled on April 10 (Fri), 13 (Mon), 14, or 15</strong></td>
+    <td><strong>Midterm review individual meetings to be scheduled on April 10 (Fri), 13 (Mon), 14, or 15</strong></td>
 </tr>
 <tr>
     <td>Wed, Apr 8</td>
      <td><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
-     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td>
+     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br><strong></td>
 </tr>
 
 <tr>
