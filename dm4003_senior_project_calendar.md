@@ -147,7 +147,7 @@
 </tr>
 <tr>
     <td>Fri, Apr 10, Mon 13, 14, or 15</td>
-    <td><strong>Midterm review individual meetings to be scheduled on </strong></td>
+    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
 </tr>
 <tr>
     <td>Wed, Apr 8</td>
@@ -162,11 +162,11 @@
 </tr>
 <tr>
     <td>Wed, Apr 22</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 <tr>
     <td>Wed, Apr 29</td>
-     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> Senior Project – Beta Version Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 
 <tr>
