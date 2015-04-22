@@ -192,12 +192,8 @@
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>May TBD</td>
+    <td>Wed, May 13</td>
     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></td>
-</tr>
-<tr>
-    <td>Fri, May 08 – Tue, May 19</td>
-    <td><i>Final Exams for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 </table>
 
