@@ -22,6 +22,7 @@ Create a dropbox link with the following contents:
   * title of your project
   * URL to your project website
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
+  * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
   * short text description of your project
 
 ### END OF SEMESTER PRESENTATION
