@@ -182,8 +182,7 @@
     <li>10 Stick Around p.180-199</li>
     </ul>
     <strong>Class Critique: Senior Project – Gold Version Due<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Process PDF</a><br>
-    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Project Supporting Files Due</a><br>
+    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables For Senior Project Catalog Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 
 </tr>
@@ -192,8 +191,8 @@
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>Wed, May 13</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></td>
+    <td>Wed, May 13<br>2-6pm EST</td>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations<br>Attendance is MANDATORY for the entire 4 hours!</a></strong><br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a>End Of Semester Presentation</td>
 </tr>
 </table>
 

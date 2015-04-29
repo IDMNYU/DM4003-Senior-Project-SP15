@@ -10,7 +10,7 @@
 
 ## END OF SEMESTER DELIVERABLES
 
-### DELIVERABLES FOR SENIOR PROJECT CATALOG / SUPPORTING FILES 
+### DELIVERABLES FOR SENIOR PROJECT CATALOG
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
 Each student will provide their own dropbox link. 
@@ -22,9 +22,10 @@ Create a dropbox link with the following contents:
   * title of your project
   * URL to your project website
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
-  * abstract
-* **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
+  * short text description of your project
 
+### END OF SEMESTER PRESENTATION
+* Export as a pdf and post on basecamp or on your process website or dropbox. 
 
 ### PORTFOLIO WEBSITE
 *NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
