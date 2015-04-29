@@ -196,7 +196,7 @@
     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
 </tr>
 <tr>
-<td></td>
+<td>Wed, May 13-Fri, May 15</td>
 <td>Senior Exit Interviews</td>
 </tr>
 </table>
