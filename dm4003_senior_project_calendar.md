@@ -192,7 +192,7 @@
 </tr>
 <tr>
     <td>Wed, May 13<br>2-6pm EST</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations<br>Attendance is MANDATORY for the entire 4 hours!</a></strong><br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a>End Of Semester Presentation</td>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a>End Of Semester Presentation</td>
 </tr>
 </table>
 
