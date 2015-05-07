@@ -182,7 +182,7 @@
     <li>10 Stick Around p.180-199</li>
     </ul>
     <strong>Class Critique: Senior Project – Gold Version Due</strong><br>
-    <strong>Schedule of Senior Exit Interviews</strong><br>
+    <strong>Schedule Senior Exit Interviews</strong><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables For Senior Project Catalog Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
     <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 
@@ -193,7 +193,7 @@
 </tr>
 <tr>
     <td>Wed, May 13<br>2-6pm EST</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
 </tr>
 <tr>
 <td>Wed, May 13-Fri, May 15</td>
