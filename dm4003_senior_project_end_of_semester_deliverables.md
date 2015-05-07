@@ -26,7 +26,7 @@ Create a dropbox link with the following contents:
   * short text description of your project
 
 ### END OF SEMESTER PRESENTATION
-* Export as a pdf and post on basecamp or on your process website or dropbox. 
+* Export as a pdf and post on basecamp
 
 ### PORTFOLIO WEBSITE
 *NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
