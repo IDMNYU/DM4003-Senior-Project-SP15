@@ -11,7 +11,7 @@
 ## END OF SEMESTER DELIVERABLES
 
 ### EXIT INTERVIEW SURVEY
-Please fill out by Monday, May 18th. The survey was mailed to your NYU email account: http://goo.gl/forms/sYzLdYwNWF
+Please fill out by Friday, May 15th. The survey was mailed to your NYU email account: http://goo.gl/forms/sYzLdYwNWF
 
 ### DELIVERABLES FOR IDM PROMOTION and ARCHIVE
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
