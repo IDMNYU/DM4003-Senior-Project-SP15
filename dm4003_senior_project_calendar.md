@@ -182,10 +182,8 @@
     <li>10 Stick Around p.180-199</li>
     </ul>
     <strong>Class Critique: Senior Project – Gold Version Due</strong><br>
-    <strong>Schedule Senior Exit Interviews</strong><br>
-    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables For Senior Project Catalog Due</a><br>
-    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Self-Assessment Due</a><br>
-    <a href="dm4003_senior_project_end_of_semester_deliverables.md">Letter to Next Cohort Due</a></td> 
+    
+    </td> 
 </tr>
 <tr>
     <td>Tue, May 05 – Thu, May 7</td>
@@ -197,7 +195,13 @@
 </tr>
 <tr>
 <td>Mon, May 11-Fri, May 15</td>
-<td>Senior Exit Interviews</td>
+<td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
+<a href="dm4003_senior_project_end_of_semester_deliverables.md">
+Deliverables For IDM Promotion and Archive<br>
+End of Semester Presentation (exported as pdf)<br>
+Final Self-Assessment Due (pdf)<br>
+Letter to Next Cohort Due (pdf)<br>
+Portfolio Website</a></td>
 </tr>
 </table>
 

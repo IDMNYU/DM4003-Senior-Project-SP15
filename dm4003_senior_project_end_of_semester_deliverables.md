@@ -10,7 +10,10 @@
 
 ## END OF SEMESTER DELIVERABLES
 
-### DELIVERABLES FOR SENIOR PROJECT CATALOG
+### EXIT INTERVIEW SURVEY
+Please fill out by Monday, May 18th. The survey was mailed to your NYU email account: http://goo.gl/forms/sYzLdYwNWF
+
+### DELIVERABLES FOR IDM PROMOTION and ARCHIVE
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
 Each student will provide their own dropbox link. 
@@ -18,23 +21,25 @@ Each student will provide their own dropbox link.
 Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) A dropbox link is actually different than sharing an actual dropbox folder.
  
 Create a dropbox link with the following contents:
-* **deliverables for the senior project catalog**
   * title of your project
   * URL to your project website
+  * short text description of your project
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
-  * short text description of your project
+  * (for lyndsey only) mp3s of all the episodes
+  
 
 ### END OF SEMESTER PRESENTATION
 * Export as a pdf and post on basecamp
 
-### PORTFOLIO WEBSITE
-*NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
-This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
-
 
 ### END OF SEMESTER PUBLIC PRESENTATIONS
+
+Wed, May 13, 2-6pm EST
+MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)
+
 Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
+
 
      Each presentation will consist of 
      * 10 minutes of presentation and 
@@ -79,6 +84,14 @@ Feedback re: required books
 * Email your letter *as a pdf* to deangela.duff@nyu.edu 
 
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
+
+
+### PORTFOLIO WEBSITE
+*NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
+
+* Post to basecamp
+
+This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
 
